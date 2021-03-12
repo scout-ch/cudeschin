@@ -2,13 +2,22 @@
 --------------
 
 **Einen nachhaltigen Konsum ins Programm einbinden**
-
-**Sensibilisierung**        **Vorbildfunktion leben**         **Aktiv werden**
-
->>>HIER KOMMEN NOCH 3 ILLUSTRATIONEN REIN!
-
-<!--warte noch auf die Bilder-->
-
+<table width="100%">
+    <thead>
+        <tr>
+            <th>Sensibilisierung</th>
+            <th>Vorbildfunktion leben</th>
+            <th>Aktiv werden</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="images/piktos/Icon_Sensibilisierung.jpg" /></td>
+            <td><img src="images/piktos/Icon_Vorbildfunktion.jpg" /></td>
+            <td><img src="images/piktos/Icon_Aktiv_werden.jpg" /></td>
+        </tr>
+    </body>
+</table>
 
 **Sensibilisierung:** Nachhaltigkeitsthemen sind komplex. Deshalb ermöglichen wir es unseren Teilnehmenden mit einer spielerischen und stufengerechten Auseinandersetzung mehr über einen nachhaltigen Konsum zu erfahren.
 
