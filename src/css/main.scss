@@ -1,0 +1,124 @@
+:root {
+    --f7-theme-color: #00a0af;
+    --f7-theme-color-shade: #00626b;
+    --f7-theme-color-tint: #00bacb;
+    --f7-theme-color-rgb: 0, 160, 175;
+    --f7-navbar-bg-color: var(--f7-theme-color);
+    --f7-navbar-link-color: white;
+    --f7-navbar-text-color: white;
+}
+
+.content-card .card-header {
+    height: 35vw;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    border-radius: var(--f7-card-border-radius);
+}
+
+.content-card .link {
+    color: white;
+    background-color: #00a0afaa;
+    justify-content: left;
+    padding: 5px 15px;
+    width: 100%;
+    border-radius: 0 0 var(--f7-card-border-radius) var(--f7-card-border-radius);
+}
+
+.card-0 .card-header {
+    background-image: url(/images/titles/01_Aktivitaet_planen.jpg);
+}
+
+.card-1 .card-header {
+    background-image: url(/images/titles/02_Aktivitaet_durchfuehren.jpg);
+}
+.card-2 .card-header {
+    background-image: url(/images/titles/03_Aktivitaet_LST.jpg);
+}
+.card-3 .card-header {
+    background-image: url(/images/titles/04_Auswertung.jpg);
+}
+.card-4 .card-header {
+    background-image: url(/images/titles/05_Quartalsprogramm.jpg);
+}
+.card-5 .card-header {
+    background-image: url(/images/titles/06_Hoeck.jpg);
+}
+.card-6 .card-header {
+    background-image: url(/images/titles/07_Elternkontakt.jpg);
+}
+.card-7 .card-header {
+    background-image: url(/images/titles/08_Sicherheit.jpg);
+}
+.card-8 .card-header {
+    background-image: url(/images/titles/09_3x3.jpg);
+}
+.card-9 .card-header {
+    background-image: url(/images/titles/10_Handeln_im_notfall.jpg);
+}
+.card-10 .card-header {
+    background-image: url(/images/titles/11_Gruppen_bilden.jpg);
+}
+.card-11 .card-header {
+    background-image: url(/images/titles/12_Spiele_variieren.jpg);
+}
+.card-12 .card-header {
+    background-image: url(/images/titles/13_Faehnliaktivitaeten.jpg);
+}
+.card-13 .card-header {
+    background-image: url(/images/titles/14_Betreuung_Leitpfadis.jpg);
+}
+.card-14 .card-header {
+    background-image: url(/images/titles/15_Pfaditechnik.jpg);
+}
+.card-15 .card-header {
+    background-image: url(/images/titles/16_Faires_Lager.jpg);
+}
+.card-16 .card-header {
+    background-image: url(/images/titles/99_Impressum.jpg);
+}
+
+
+.article {
+    table {
+        border-spacing: 5px;
+    }
+}
+
+.verweise a.link {
+    width: 100%;
+    margin: 5px 0;
+    padding: 5px;
+    color: black;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    justify-content: left;
+}
+
+.verweise a.link img {
+    width: 40px;
+    margin-right: 5px;
+}
+
+
+table.spec {
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+table.spec tr td {
+    vertical-align: top;
+}
+
+table.spec tr th {
+    text-align: left;
+}
+
+table.spec td, .spec th {
+  border: 1px solid #d0d0d0;
+  padding: 5px;
+}
+
+td.points {
+    background-color: #95d6dc;
+}
