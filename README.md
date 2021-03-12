@@ -11,7 +11,7 @@ yarn global add @vue/cli
 yarn install
 ```
 
-#### Markdown-Inhalte aus content_src importieren
+#### Markdown-Inhalte aus content Ordner in App aktualisieren
 ```
 ./import_content.py
 ```
@@ -24,4 +24,9 @@ yarn serve
 #### Build für Upload auf produktive Hosting Umgebung
 ```
 yarn build
+```
+
+#### Source code checken und formatieren
+```
+yarn lint
 ```

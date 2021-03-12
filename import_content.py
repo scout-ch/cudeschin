@@ -4,7 +4,7 @@ import os
 import json
 import fnmatch
 
-SOURCE_DIR = 'content_src'
+SOURCE_DIR = 'content'
 OUTPUT = 'src/assets/articles.json'
 
 
