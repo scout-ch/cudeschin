@@ -23,9 +23,6 @@ Bei allen Arten von Fähnliaktivitäten ist eine Begleitung und [Betreuung der L
 
 **Bei einer Übernachtung ist zusätzlich Folgendes zu beachten**
 
-- Zusammengehörende Gegenstände oder Kärtchen verteilen, verdeckt austauschen und auf Stopp den jeweiligen Partner finden
-- Kreis bilden (möglichst dicht, alle mit der linken Schulter nach innen, linker Arm ausgestreckt), auf Kommando dreimal in die Knie und dabei versuchen eine freie Hand zu fassen
-
 - Fähnli verbringt nicht mehr als eine Nacht alleine
 - Fähnli wird am Abend besucht
 - Leitungsteam und Leitpfadi kennen den Ort der Übernachtung

@@ -9,6 +9,8 @@
 | Konzept: | Daniel Rüttimann / Tschiggo |
 | Mitarbeitende: | Fabia Bianchi / Yenga<br>Susanna Bingisser / Pro<br> Susanne Weber / Ilaga<br> Michael Auer / Nanuk<br> Silvan Hofstetter / Turbo<br> David Kieffer / Garfield<br> |
 | Überarbeitung 2014: | Roman Heggli / Fräsmi<br> David Kieffer / Garfield<br> Anne-Françoise Vuilleumier / Paon
+|Adaption als Web App (PWA) 2021| Stefan Reinhard / Chili, Entwicklung <br> Andreas Mörker / Kodack, AKom <br> Ausbildungskommission |
+
 | Illustration | Sandra Gujer-Brückner / Milou, illuhouse.ch
 | Layout | Zoé Bobst / Ciara <br>Überarbeitung 2014: Roman Heggli / Fräsmi
 | Referenznr. |	3098.02_de |

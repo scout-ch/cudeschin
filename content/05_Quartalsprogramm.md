@@ -47,4 +47,4 @@ QP schriftlich festhalten und an alle Leitenden inkl. Abteilungs- und/oder Stufe
 |---|---|
 | [![](images/piktos/5_Programm.png)][1] | [Broschüre «Programm – Pfadi leben» (ab S. 22)][1] |
 
-[1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/programm
+[1]: https://issuu.com/pbs-msds-mss/docs/rz_05_programm_de_201607_issuu

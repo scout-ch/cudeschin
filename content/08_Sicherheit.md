@@ -54,11 +54,11 @@ Jede Aktivität kann Gefahren bergen und erfordert deshalb Überlegungen und Mas
 ### Weitere Informationen
 | | |
 |---|---|
-| [![](images/piktos/2_JundS.png)][1] | [J+S-Broschüre «LS/T Grundlagen»][1] |
+| [![](images/piktos/2_JundS.png)][1] | [J+S-Broschüre «LS/T Grundlagen» (S. 14 - 18)][1] |
 | [![](images/piktos/8_Sicherheit.png)][2] | [Broschüre «Sicherheit – Verantwortung tragen»][2] |
 | ![](images/piktos/10_Trekking.png) | J+S-Broschüren im cudesch <br/>«LS/T Berg»<br/>«LS/T Winter»<br/>«LS/T Wasser»<br/>(nicht als PDF verfügbar) |
 | [![](images/piktos/Literaturhinweis.png)][4] | [J+S- Merkblatt «3×3 – unterwegs sein»][4] |
 
-[1]: https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view
-[2]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/sicherheit
+[1]: https://pfadi.swiss/de/publikationen-downloads/downloads/detail/39/js-broschure-lst-grundlagen/
+[2]: https://issuu.com/pbs-msds-mss/docs/rz_07_sicherheit_de_201607_issuu
 [4]: https://www.jugendundsport.ch/content/jus-internet/de/sportarten/lagersport-trekking-uebersicht/aus-und-weiterbildung/_jcr_content/contentPar/tabs_copy/items/dokumente/tabPar/downloadlist_copy/downloadItems/97_1494506483240.download/merkblatt_ls_t_3x3_unterwegs_sein_d.pdf

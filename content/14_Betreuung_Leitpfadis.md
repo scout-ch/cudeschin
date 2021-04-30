@@ -40,6 +40,6 @@ Wichtig: Das Leitungsteam darf Anpassungen verlangen oder eine Aktivität verbie
 ### Weitere Informationen
 | | |
 |---|---|
-| [![](images/piktos/6_Stufen.png)][1] | [PBS Stufen-Broschüre «Die Pfadistufe - Allzeit bereit»][1] |
+| [![](images/piktos/6_Stufen.png)][1] | [PBS Stufen-Broschüre «Die Pfadistufe - Allzeit bereit» (S.23-25)][1] |
 
 [1]: https://pfadi.swiss/media/files/3c/52297_pfadibewegung_pfadistufenbroschure_de.pdf
