@@ -38,9 +38,9 @@ QP schriftlich festhalten und an alle Leitenden inkl. Abteilungs- und/oder Stufe
 * Daten der verschiedenen Aktivitäten
 * Adressliste des Leitungsteams
 
-[👉 Detailplanung der jeweiligen Aktivitäten](/article/aktivitaet_planen)
+[👉 Detailplanung der jeweiligen Aktivitäten](/de/article/01)
 
-[👉 Auswertung des QPs nach der letzten Aktivität](/article/auswertung)
+[👉 Auswertung des QPs nach der letzten Aktivität](/de/article/04)
 
 ### Weitere Informationen
 | | |

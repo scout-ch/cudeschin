@@ -35,11 +35,11 @@ Die Betreuung muss an ihre Bedürfnisse und Erfahrungen angepasst sein
 
 Wichtig: Das Leitungsteam darf Anpassungen verlangen oder eine Aktivität verbieten, wenn diese zu gefährlich ist!
 
-[Link zu: „Fähnliaktivitäten“](/article/faehnliaktivitaeten)
+[Link zu: „Fähnliaktivitäten“](/de/article/13)
 
 ### Weitere Informationen
 | | |
 |---|---|
 | [![](images/piktos/6_Stufen.png)][1] | [PBS Stufen-Broschüre «Die Pfadistufe - Allzeit bereit» (S.23-25)][1] |
 
-[1]: https://pfadi.swiss/media/files/3c/52297_pfadibewegung_pfadistufenbroschure_de.pdf
+[1]: https://issuu.com/pbs-msds-mss/docs/cudesch_pfadistufenbroschuere_20160
