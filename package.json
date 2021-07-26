@@ -2,10 +2,12 @@
   "name": "cudeschin",
   "version": "0.1.0",
   "private": true,
+  "license": "GPL",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "rsync -avz -e 'ssh -p 2121' dist/ atestdo@80.74.142.140:cudeschin.pbs.ch/"
   },
   "dependencies": {
     "core-js": "3.6.5",
