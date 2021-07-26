@@ -9,12 +9,14 @@
             </f7-nav-left>
             <f7-nav-title>Cudeschin</f7-nav-title>
             <f7-nav-right>
+                <!-- Card switch is not really that helpful, remove it -->
+                <f7-link @click="toggleDisplay" :icon-material="viewIcon" />
+                <f7-link @click="switchLanguage" icon-material="language" />
                 <f7-link
                     href="mailto:verbesserungen@pbs.ch?subject=Feedback cudeschin"
                     class="external"
                     icon-material="feedback"
                 />
-                <f7-link :icon-material="viewIcon" @click="toggleDisplay" />
                 <f7-link
                     class="searchbar-enable"
                     data-searchbar=".article-search"
@@ -35,6 +37,28 @@
         <f7-list class="searchbar-not-found">
             <f7-list-item title="Leider nichts gefunden"></f7-list-item>
         </f7-list>
+        <f7-actions ref="langSwitch">
+            <f7-actions-group>
+                <f7-actions-button
+                    :bold="articles.lang === 'de'"
+                    @click="articles.activate('de')"
+                >
+                    Deutsch
+                </f7-actions-button>
+                <f7-actions-button
+                    :bold="articles.lang === 'fr'"
+                    @click="articles.activate('fr')"
+                >
+                    Français
+                </f7-actions-button>
+                <f7-actions-button
+                    :bold="articles.lang === 'it'"
+                    @click="articles.activate('it')"
+                >
+                    Italiano
+                </f7-actions-button>
+            </f7-actions-group>
+        </f7-actions>
     </f7-page>
 </template>
 
@@ -59,6 +83,9 @@ export default {
         },
         searchbarEnabled: function(event) {
             this.listActive = true;
+        },
+        switchLanguage: function(event) {
+            this.$refs.langSwitch.open();
         }
     }
 };

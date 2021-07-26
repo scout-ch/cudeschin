@@ -10,8 +10,8 @@ class ArticleStore {
     }
 
     activate(language) {
-        const lang = translations.includes(language) ? language : 'de';
-        this.articles = articlesSource[lang];
+        this.lang = translations.includes(language) ? language : 'de';
+        this.articles = articlesSource[this.lang];
         this.load();
     }
 
