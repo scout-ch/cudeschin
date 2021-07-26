@@ -6,6 +6,7 @@
                 <f7-button
                     icon-material="share"
                     style="color:white"
+                    v-if="canShare"
                     @click="share"
                 />
             </f7-nav-right>
@@ -21,9 +22,13 @@ import articles from '@/store';
 
 export default {
     props: ['id'],
+    data: function() {
+        return {
+            canShare: navigator.share !== undefined
+        };
+    },
     mounted: function() {
         this.$$('article a').each((index, link) => {
-            console.log(link.href);
             if (!link.href.includes('/article/')) {
                 this.$$(link)
                     .addClass('external')
@@ -44,11 +49,7 @@ export default {
                     url: window.location.href
                 });
             } catch (e) {
-                this.$f7.dialog.alert(
-                    'Leider bietet dein Browser keine Unterstüzung für dieses Feature. ' +
-                    'Du kannst aber auch einfach die URL kopieren und den Artikel so teilen.',
-                    'Ooops, ein Fehler!'
-                );
+                console.error(e);
             }
         }
     }

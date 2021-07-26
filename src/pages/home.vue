@@ -27,7 +27,6 @@
             <f7-searchbar
                 expandable
                 class="article-search"
-                @searchbar:enable="searchbarEnabled"
                 search-container=".article-list"
                 search-in=".source-text"
             ></f7-searchbar>
