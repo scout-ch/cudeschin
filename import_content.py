@@ -20,13 +20,10 @@ def load():
                 content = f.read()
                 title = content.splitlines()[0]
                 article_id = article[0:2].lower()
-                img_name = article.replace('.md', '.jpg')
-                img = os.path.join('images', 'titles', img_name)
 
                 articles[lang].append({
                     "title": title,
                     "id": article_id,
-                    "img": img,
                     "content": content,
                 })
 

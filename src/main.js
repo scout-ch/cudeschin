@@ -13,10 +13,8 @@ import '@/css/main.scss';
 
 import App from '@/app.vue';
 
-import article_cards from '@/components/article-cards';
 import article_list from '@/components/article-list';
 
-Vue.component('article-cards', article_cards);
 Vue.component('article-list', article_list);
 
 new Vue({
