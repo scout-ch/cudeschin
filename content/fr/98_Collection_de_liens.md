@@ -1,20 +1,20 @@
-👩‍💻 Collection de liens 
+👩‍💻 Collection de liens
 ----------------------
 <!--Alles, was Appendix so in den Sinn kam… Er ist froh um Ergänzungen 😉 -->
 
-###Planifier une activité - Idées concrètes
+### Planifier une activité - Idées concrètes
 
-* [LA im Kindersport](https://pfadi.swiss/fr/activites-scoutes/experiences-camp/#supports) 
+* [LA im Kindersport](https://pfadi.swiss/fr/activites-scoutes/experiences-camp/#supports)
 * [Mobilesport](https://www.mobilesport.ch/fr/)
-* [Jeux du scoutes, seulement en allemand](https://www.pfadispiele.ch/) 
+* [Jeux du scoutes, seulement en allemand](https://www.pfadispiele.ch/)
 * [Spika Jubla](https://spika.ch/)
 
-###Thèmes MSdS
+### Thèmes MSdS
 
-* [Scout.swiss als Pfadi-Teaser](www.scout.swiss) 
+* [Scout.swiss als Pfadi-Teaser](www.scout.swiss)
 * [www.pbs.ch mit Infos für Leitende](www.pbs.ch)
 * [Ausbildungsseite PBS](www.ausbildung.pbs.ch)
-* [Betreuungsseite PBS](www.betreuung.pbs.ch) 
+* [Betreuungsseite PBS](www.betreuung.pbs.ch)
 * [Lagerseite PBS](www.lager.pbs.ch)
 * [Motivationsseite PBS](www.motivation.pbs.ch)
 * [Integrationsseite der PBS](www.integration.pbs.ch)
@@ -26,14 +26,14 @@
 * [Cudesch](www.cudesch.pbs.ch)
 * [Pfadiprofil](www.pfadiprofil.pbs.ch)
 
-####Informations spécifiques au niveau
+#### Informations spécifiques au niveau
 * [Biberstufe](www.biber.pbs.ch)
 * [Wolfsstufe](www.woelfe.pbs.ch)
 * [Pfadistufe](www.pfadis.pbs.ch)
 * [Piostufe](www.pios.pbs.ch)
 * [Roverstufe](www.rover.pbs.ch)
 
-###Planification du camp
+### Planification du camp
 * [MiData](https://db.scout.ch/)
 * [Faires Lager](www.faires-lager.ch)
 * [eCamp Lagerplanungstool(DE)](https://ecamp.pfadiluzern.ch/)
@@ -41,21 +41,21 @@
 * [Pfadistiftung](www.pfadistiftung.ch)
 * [Lagerkochbuch](https://lagerkochbuch.ch)
 
-###Autres sujets (pertinents)
+### Autres sujets (pertinents)
 * [Issuu Katalog PBS](https://issuu.com/pbs-msds-mss)
-* [J+S - Sport de Camp/Trekking](www.jugendundsport.ch/fr/sportarten/lagersport-trekking-uebersicht.html) >> séparément aux PDF, comme «Facteur homme»  
+* [J+S - Sport de Camp/Trekking](www.jugendundsport.ch/fr/sportarten/lagersport-trekking-uebersicht.html) >> séparément aux PDF, comme «Facteur homme»
 * [Hajk](www.hajk.ch)
 * [Jugendurlaub](www.jugendurlaub.ch)
-* [Pfadi Toolbox (DE)](https://pfadi-toolbox.ch/) 
+* [Pfadi Toolbox (DE)](https://pfadi-toolbox.ch/)
 * [Scout.org](www.scout.org)
 * [WAGGGS](www.wagggs.org)
 * [Pfadinamen](www.pfadinamen.ch)
 
-####Camp fédérale - mova
+### #Camp fédérale - mova
 <!--natürlich nur zeitlich begrenzt-->
-* [CaFé - mova](https://www.bula21.ch/) 
+* [CaFé - mova](https://www.bula21.ch/)
 
-###Applications utiles 
+### Applications utiles
 
 <!--im Cudeschin-App am besten OS-abhängige Links verwenden -->
 
@@ -64,14 +64,14 @@
 * [iOS](https://itunes.apple.com/ch/app/meteoswiss/id589772015?l=fr&amp;ls=1&amp;mt=8)
 * [Android](https://play.google.com/store/apps/details?id=ch.admin.meteoswiss&hl=fr)
 
-[Schweiz Mobil](https://www.schweizmobil.ch/de/app-schweizmobil-fr.html) 
+[Schweiz Mobil](https://www.schweizmobil.ch/de/app-schweizmobil-fr.html)
 
-* [iOS](http://itunes.apple.com/ch/app/schweizmobil/id527194959) 
+* [iOS](http://itunes.apple.com/ch/app/schweizmobil/id527194959)
 * [Android](https://play.google.com/store/apps/details?id=ch.schweizmobil)
 
 [Rega](https://www.rega.ch/fr/multimedia/rega-app.aspx)
 
-* [iOS](https://itunes.apple.com/ch/app/irega/id415358154?mt=8) 
+* [iOS](https://itunes.apple.com/ch/app/irega/id415358154?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=ch.rega.Rega&hl=fr)
 
 [Rondo](https://rondo-verlag.ch/)
@@ -86,15 +86,15 @@
 
 [Zecken App](https://www.zhaw.ch/en/lsfm/business-services/institute-of-natural-resource-sciences/ticks/tick-app/)
 
-* [iOS](http://appstore.com/apps/Zecke)
+* [iOS](https://apps.apple.com/ch/app/zecke/id946829736)
 * [Android](http://play.google.com/store/apps/details?id=com.garzotto.zecke)
 
-Swiss Map Mobile 
+[App swisstopo](https://www.swisstopo.admin.ch/fr/cartes-donnees-en-ligne/cartes-geodonnees-en-ligne/swisstopo-app.html)
 
-* [iOS](https://play.google.com/store/apps/details?id=com.garzotto.smma&hl=fr_CH)
-* [Android](https://itunes.apple.com/ch/app/swiss-map-mobile/id311447284?mt=8)
+* [iOS](https://apps.apple.com/ch/app/swisstopo/id1505986543)
+* [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo&hl=de_CH)
 
-[Kahoot Quizapp](https://kahoot.it/) 
+[Kahoot Quizapp](https://kahoot.it/)
 
 * [iOS](https://apps.apple.com/ch/app/kahoot-play-create-quizzes/id1131203560)
 * [Android](https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&hl=fr_CH)
@@ -106,5 +106,5 @@ Swiss Map Mobile
 
 [Alert Swiss](https://www.alert.swiss/)
 
-* [iOS](https://itunes.apple.com/ch/app/alertswiss/id957339177) 
+* [iOS](https://itunes.apple.com/ch/app/alertswiss/id957339177)
 * [Android](https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss)

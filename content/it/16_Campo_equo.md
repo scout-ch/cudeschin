@@ -15,21 +15,21 @@
        </thead>
        <tbody>
         <tr>
-            <td> ![](images/piktos/Icon_Sensibilisierung.png)</td>
-            <td> ![](images/piktos/Icon_Vorbildfunktion.png)</td>
-            <td> ![](images/piktos/Icon_Aktiv_werden.png)</td>
+            <td><img height="80px" width="80px" src="images/piktos/Icon_Sensibilisierung.png" /></td>
+            <td><img height="80px" width="80px" src="images/piktos/Icon_Vorbildfunktion.png" /></td>
+            <td><img height="80px" width="80px" src="images/piktos/Icon_Aktiv_werden.png" /></td>
         </tr>
-       </body> 
+       </body>
 </table>
 
-**Sensibilizzare:** Le questioni sulla sostenibilità sono complesse. Pertanto permettiamo ai nostri partecipanti di imparare di più sul consumo sostenibile attraverso un approccio ludico e adeguato alla propria branca. 
+**Sensibilizzare:** Le questioni sulla sostenibilità sono complesse. Pertanto permettiamo ai nostri partecipanti di imparare di più sul consumo sostenibile attraverso un approccio ludico e adeguato alla propria branca.
 
 - Idee per l'attuazione: Grande gioco con il tema Foodwaste (spreco di cibo), Programma con il tema Secondhand, Atelier Upcycling (riciclaggio).
 
 
 **Comportarsi da esempio:** Vivendo la nostra funzione in modo esemplare, saremo presi sul serio. Viviamo uno stile di vita sostenibile in modo positivo e coinvolgiamo i partecipanti.
 
-- Idee per l'attuazione: Trasmettere la cura del materiale tramite un teatrino divertente, fare un giro in bicicletta, cucinare insieme dei falafel 
+- Idee per l'attuazione: Trasmettere la cura del materiale tramite un teatrino divertente, fare un giro in bicicletta, cucinare insieme dei falafel
 
 **Essere attivi:** Lanciamo progetti con i quali contribuiamo insieme a un futuro sostenibile. Questo rafforza la nostra immagine e attira nuovi partecipanti.
 
@@ -40,8 +40,8 @@ Vivere uno stile di vita sostenibile è impegnativo. Cerchiamo soluzioni positiv
 **Perché il consumo sostenibile è importante per noi scout:**
 
 - Ci prendiamo cura della natura e della vita in generale.
-- Per realizzare un programma attrattivo dipendiamo da un ambiente intatto 
-- Vogliamo contribuire a plasmare la nostra società in modo positivo e mostrare solidarietà con gli scout di tutto il mondo. 
+- Per realizzare un programma attrattivo dipendiamo da un ambiente intatto
+- Vogliamo contribuire a plasmare la nostra società in modo positivo e mostrare solidarietà con gli scout di tutto il mondo.
 
 
 ### Ulteriori informazioni

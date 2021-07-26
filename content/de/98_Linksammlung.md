@@ -87,10 +87,10 @@
 
 [Zecken App](https://www.zhaw.ch/de/lsfm/dienstleistung/institut-fuer-umwelt-und-natuerliche-ressourcen/zecken/app-zecke/)
 
-* [iOS](http://appstore.com/apps/Zecke)
+* [iOS](https://apps.apple.com/ch/app/zecke/id946829736)
 * [Android](http://play.google.com/store/apps/details?id=com.garzotto.zecke)
 
-[Swiss Map Mobile](https://www.swisstopo.admin.ch/de/karten-daten-online/karten-geodaten-online/swisstopo-app.html)
+[swisstopo-App](https://www.swisstopo.admin.ch/de/karten-daten-online/karten-geodaten-online/swisstopo-app.html)
 
 * [iOS](https://apps.apple.com/ch/app/swisstopo/id1505986543)
 * [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo&hl=de_CH)
