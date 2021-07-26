@@ -40,19 +40,19 @@
             <f7-actions-group>
                 <f7-actions-button
                     :bold="articles.lang === 'de'"
-                    @click="articles.activate('de')"
+                    @click="articles.activate('de', true)"
                 >
                     Deutsch
                 </f7-actions-button>
                 <f7-actions-button
                     :bold="articles.lang === 'fr'"
-                    @click="articles.activate('fr')"
+                    @click="articles.activate('fr', true)"
                 >
                     Français
                 </f7-actions-button>
                 <f7-actions-button
                     :bold="articles.lang === 'it'"
-                    @click="articles.activate('it')"
+                    @click="articles.activate('it', true)"
                 >
                     Italiano
                 </f7-actions-button>
