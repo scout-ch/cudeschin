@@ -35,7 +35,7 @@ Die Betreuung muss an ihre Bedürfnisse und Erfahrungen angepasst sein
 
 Wichtig: Das Leitungsteam darf Anpassungen verlangen oder eine Aktivität verbieten, wenn diese zu gefährlich ist!
 
-[Link zu: „Fähnliaktivitäten“](/de/article/13)
+[👉 Link zu: „Fähnliaktivitäten“](/de/article/13)
 
 ### Weitere Informationen
 | | |

@@ -1,4 +1,4 @@
-👩‍💻 Linksammlung Cudeschin
+👩‍💻 Linksammlung
 --------------
 
 <!--Alles, was Appendix so in den Sinn kam… Er ist froh um Ergänzungen 😉 -->

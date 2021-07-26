@@ -34,7 +34,7 @@ L'encadrement doit être adapté aux besoins et aux expériences
 
 Important: la maitrise peut demander des adaptations ou interdire une activité, si celle-ci est trop dangereuse!
 
-[Lien vers: „Activités de patrouille“](/fr/article/13)
+[👉 Lien vers: „Activités de patrouille“](/fr/article/13)
 
 ### Plus d'informations
 | | |

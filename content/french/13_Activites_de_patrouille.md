@@ -30,6 +30,6 @@ Pour toutes les formes d'activité de patrouille, un accompagnement et un [encad
 ### Plus d'informations
 | | |
 |---|---|
-| [![](images/piktos/6_Stufen.png)][1] | [Brochure MsdS «La branche Eclais - Toujours prêt»][1] |
+| [![](images/piktos/6_Stufen.png)][1] | [Brochure MSdS «La branche Eclais - Toujours prêt»][1] |
 
 [1]: https://issuu.com/pbs-msds-mss/docs/2134.01.fr_cudesch_pfadistufenbrosc
