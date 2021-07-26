@@ -44,4 +44,4 @@ Dabei ist wichtig: Teilnehmende betreuen, kontrolliert und gemeinsam verbessern.
 |---|---|
 | ![](images/piktos/www.png) | [Pfaditechnik-Plattform][1] |
 
-[1]: http://pfaditechnik.pbs.ch
+[1]: https://pfadi.swiss/de/pfaditechnik/

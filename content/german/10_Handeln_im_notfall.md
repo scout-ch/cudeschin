@@ -70,4 +70,4 @@ Weiteres? z.B. Verletzter ist eingeklemmt, Benzin fliesst aus, Bahnübergang... 
 |---|---|
 | [![](images/piktos//8_Sicherheit.png)][1] | [Broschüre «Sicherheit – Verantwortung tragen»][1] |
 
-[1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/sicherheit
+[1]: https://issuu.com/pbs-msds-mss/docs/rz_07_sicherheit_de_201607_issuu

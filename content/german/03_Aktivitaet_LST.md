@@ -51,11 +51,10 @@ Mögliche Aktivitäten:
 - Wellnessabend
 - ...
 
-### Weitere Informationen
 | | |
 |---|---|
 | [![](images/piktos/2_JundS.png)][1] | [J+S-Broschüre «LS/T Grundlagen» (ab S. 7)][1] |
-| [![](images/piktos/www.png)][2] | [Bewegungsgrundformen für Kinder][2] |
+| [![](images/piktos/www.png)][2] | [Link «Bewegungsgrundformen für Kinder»][2] |
 
-[1]: https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view
-[2]: https://www.jugendundsport.ch/de/sportarten/kindersport.html
+[1]: https://pfadi.swiss/media/files/94/20131126brolstgrundlagen.pdf
+[2]: https://pfadi.swiss/media/files/db/j-s-kids_merkblatt_vielfaeltige_spiel-_und__sportbloecke_d.pdf

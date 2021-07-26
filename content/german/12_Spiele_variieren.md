@@ -28,8 +28,8 @@ Durch Abwandlungen bekannter Spiele können einfach neue Spiele kreiert werden.
 ### Weitere Informationen
 | | |
 |---|---|
-| [![](images/piktos/9_Spiel_Sport.png)][1] | [J+S-Broschüre «LS/T - Spiel und Sport»][1] |
+| [![](images/piktos/9_Spiel_Sport.png)][1] | [J+S-Broschüre «LS/T - Spiel und Sport» 👉 Zugang nur für Experten:innen (Login)][1] |
 | [![](images/piktos/www.png)][2] | [Spielen statt warten: Ideen für Lückenfüller & Spiele][2] |
 
-[1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/spiel-und-sport
+[1]: https://www.jugendundsport.ch/de/sportarten/lagersport-trekking-uebersicht/login-experten.html
 [2]: https://www.pfadispiele.ch

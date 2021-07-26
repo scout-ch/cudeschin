@@ -31,4 +31,4 @@ Gegebenenfalls muss das Programm der aktuellen Situation angepasst werden:
 |---|---|
 | [![](images/piktos/5_Programm.png)][1] | [Broschüre «Programm»][1] |
 
-[1]: https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view
+[1]: https://issuu.com/pbs-msds-mss/docs/rz_05_programm_de_201607_issuu

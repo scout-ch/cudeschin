@@ -53,4 +53,4 @@ Tipp: Höcks mit vielen Teilnehmenden oder mit kniffligen Themen sind anspruchsv
 |---|---|
 | [![](images/piktos/4_Leiten.png)][1] | [Broschüre «Leiten – bewusst handeln»][1] |
 
-[1]: https://www.scout.ch/de/verband/downloads/ausbildung/cudesch/leiten
+[1]: https://issuu.com/pbs-msds-mss/docs/rz_04_leiten_de_201607_issuu

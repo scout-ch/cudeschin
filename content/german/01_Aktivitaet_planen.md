@@ -1,7 +1,7 @@
 🏗️ Aktivität planen
 -------------------
 
-Bereits bei der [Quartalsplanung](/article/quartalsprogramm) wurde die Aktivität grob geplant. Diese Unterlagen dienen als Grundlage für die Detailplanung.
+Bereits bei der [Quartalsplanung](/de/article/05) wurde die Aktivität grob geplant. Diese Unterlagen dienen als Grundlage für die Detailplanung.
 
 #### Rahmenbedingungen klären
 
@@ -73,8 +73,9 @@ Sie sind den Teilnehmenden drei Tage vor der Aktivität zugänglich und enthalte
 | | |
 |---|---|
 | [![](images/piktos/2_JundS.png)][1] | [J+S-Broschüre «LS/T Grundlagen» (ab S. 7)][1] |
-| [![](images/piktos/5_Programm.png)][2] | [Programm - Pfadi leben][2] |
-| [![](images/piktos/www.png)][1] | [Link «Bewegungsgrundformen für Kinder»][1] |
+| [![](images/piktos/5_Programm.png)][2] | [Broschüre «Programm – Pfadi leben»][2] |
+| [![](images/piktos/www.png)][3] | [Link «Bewegungsgrundformen für Kinder»][3] |
 
-[1]: https://www.scout.ch/de/verband/downloads/programm/lager/j-s/j-s-leitfaden-lagersport-trekking-grundlagen/view
+[1]: https://pfadi.swiss/media/files/94/20131126brolstgrundlagen.pdf
 [2]: https://issuu.com/pbs-msds-mss/docs/rz_05_programm_de_201607_issuu
+[3]: https://pfadi.swiss/media/files/db/j-s-kids_merkblatt_vielfaeltige_spiel-_und__sportbloecke_d.pdf
