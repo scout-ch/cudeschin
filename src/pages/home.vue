@@ -33,7 +33,7 @@
         </f7-navbar>
         <article-list :articles="articles.all" />
         <f7-list class="searchbar-not-found">
-            <f7-list-item title="Leider nichts gefunden"></f7-list-item>
+            <f7-list-item title="🤷"></f7-list-item>
         </f7-list>
         <f7-actions ref="langSwitch">
             <f7-actions-group>

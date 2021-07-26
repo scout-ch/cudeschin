@@ -8,21 +8,10 @@
     --f7-navbar-text-color: white;
 }
 
-.content-card .card-header {
-    height: 35vw;
-    background-size: cover;
-    background-position: center;
-    color: white;
-    border-radius: var(--f7-card-border-radius);
-}
-
-.content-card .link {
-    color: white;
-    background-color: #00a0afaa;
-    justify-content: left;
-    padding: 5px 15px;
-    width: 100%;
-    border-radius: 0 0 var(--f7-card-border-radius) var(--f7-card-border-radius);
+.searchbar-not-found .item-title {
+    font-size: 64px;
+    text-align: center;
+    flex-grow: 1;
 }
 
 .article {
@@ -45,7 +34,6 @@
     width: 40px;
     margin-right: 5px;
 }
-
 
 table.spec {
     border-spacing: 0px;
