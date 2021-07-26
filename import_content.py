@@ -5,40 +5,41 @@ import json
 import fnmatch
 
 SOURCE_DIR = 'content'
+LANGUAGES = ['de', 'fr', 'it']
 OUTPUT = 'src/assets/articles.json'
 
 
 def load():
-    articles = []
-    files = os.listdir(SOURCE_DIR)
-    markdown_files = [f for f in files if fnmatch.fnmatch(f, '*.md')]
-    markdown_files.sort()
+    articles = {lang: [] for lang in LANGUAGES}
+    for lang in LANGUAGES:
+        files = os.listdir(os.path.join(SOURCE_DIR, lang))
+        markdown_files = [f for f in files if fnmatch.fnmatch(f, '*.md')]
+        markdown_files.sort()
+        for article in markdown_files:
+            with open(os.path.join(SOURCE_DIR, lang, article)) as f:
+                content = f.read()
+                title = content.splitlines()[0]
+                slug = article[3:-3].lower()
+                img_name = article.replace('.md', '.jpg')
+                img = os.path.join('images', 'titles', img_name)
 
-    for article in markdown_files:
-        with open(os.path.join(SOURCE_DIR, article)) as f:
-            content = f.read()
-            title = content.splitlines()[0]
-            slug = article[3:-3].lower()
-            img_name = article.replace('.md', '.jpg')
-            img = os.path.join('images', 'titles', img_name)
-
-            articles.append({
-                "title": title,
-                "slug": slug,
-                "img": img,
-                "content": content,
-            })
+                articles[lang].append({
+                    "title": title,
+                    "slug": slug,
+                    "img": img,
+                    "content": content,
+                })
 
     return articles
 
 
 def overview(articles):
     print()
-    print('IMPORTIERTE INHALTE')
+    print('IMPORTIERTE ARTIKEL')
     print('###################')
     print()
-    for a in articles:
-        print('- %s' % a['slug'])
+    for (lang, articles) in articles.items():
+        print(f'{lang}: {len(articles)}')
     print()
 
 
