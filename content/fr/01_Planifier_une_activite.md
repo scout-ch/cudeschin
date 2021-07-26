@@ -1,7 +1,7 @@
 🏗️ Planifier une activité
 ----------------
 
-Lors de la [planification trimestrielle](/fr/article/05), l'activité a déjà été planifiée en gros. Ces documents servent comme base pour la planification de détail.
+Lors de la [planification trimestrielle](/article/05), l'activité a déjà été planifiée en gros. Ces documents servent comme base pour la planification de détail.
 
 #### Clarifier les conditions-cadres
 

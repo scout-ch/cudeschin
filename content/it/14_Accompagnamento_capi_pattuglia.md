@@ -5,7 +5,7 @@ La supervisione deve essere adattata ai loro bisogni e alla loro esperienza
 
 **1. Chiarire le condizioni quadro**
 
-- Stabilire il tipo, la durata e il luogo dell’attività 
+- Stabilire il tipo, la durata e il luogo dell’attività
 - Determinare se qualcuno degli animatori parteciperà.
 - Discutere gli aspetti rilevanti della sicurezza
 
@@ -24,7 +24,7 @@ La supervisione deve essere adattata ai loro bisogni e alla loro esperienza
 **5. Supporto durante lo svolgimento**
 
 - Essere SEMPRE raggiungibili telefonicamente
-- Il luogo dell’attività dev’essere raggiungibile facilmente e velocemente 
+- Il luogo dell’attività dev’essere raggiungibile facilmente e velocemente
 - Visitare le pattuglie come richiesto al momento concordato
 
 **6. Analizzare l‘attività**
@@ -32,9 +32,9 @@ La supervisione deve essere adattata ai loro bisogni e alla loro esperienza
 - Analizzare l’attività assieme ai capi-pattuglia
 - Lodare i capi-pattuglia per l’attività svolta!
 
-Importante: Gli animatori possono richiedere degli adattamenti o proibire un’attività, se è troppo pericolosa! 
+Importante: Gli animatori possono richiedere degli adattamenti o proibire un’attività, se è troppo pericolosa!
 
-[👉 Link a: ”attività di pattuglia“](/it/article/13)
+[👉 Link a: ”attività di pattuglia“](/article/13)
 
 ### Ulteriori informazioni
 | | |

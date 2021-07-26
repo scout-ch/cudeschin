@@ -19,13 +19,13 @@ def load():
             with open(os.path.join(SOURCE_DIR, lang, article)) as f:
                 content = f.read()
                 title = content.splitlines()[0]
-                slug = article[3:-3].lower()
+                article_id = article[0:2].lower()
                 img_name = article.replace('.md', '.jpg')
                 img = os.path.join('images', 'titles', img_name)
 
                 articles[lang].append({
                     "title": title,
-                    "slug": slug,
+                    "id": article_id,
                     "img": img,
                     "content": content,
                 })

@@ -1,7 +1,7 @@
 🦺 Sécurité
 -----------
 
-La maitrise est responsable lors de chaque activité pour la sécurité des participants. Des réflexions sur la sécurité font partie intégrante de la préparation de chaque activité. Consignez vos concepts de sécurité par écrit et rendez-les accessibles pour tous: 
+La maitrise est responsable lors de chaque activité pour la sécurité des participants. Des réflexions sur la sécurité font partie intégrante de la préparation de chaque activité. Consignez vos concepts de sécurité par écrit et rendez-les accessibles pour tous:
 
 ### Concept de sécurité
 
@@ -28,7 +28,7 @@ Qu'est-ce qui est fait pour minimiser les risques et les dangers?
 
 #### Préparation à des situations d'urgence
 
-[Et si quelque chose devait quand même se passer? 🤔](/fr/article/10)
+[Et si quelque chose devait quand même se passer? 🤔](/article/10)
 
 *   Déroulement et responsabilités en cas d'urgence
 

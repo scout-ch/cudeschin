@@ -5,11 +5,11 @@ Un filo conduttore per tutto il trimestre
 
 ### Retrospettiva
 
-Ci sono dei punti della valutazione dell'ultimo trimestre, che sono importanti per la nuova pianificazione? 
+Ci sono dei punti della valutazione dell'ultimo trimestre, che sono importanti per la nuova pianificazione?
 
 ### Fissare le condizioni generali
 
-*   Punti fissi del programma annuale della sezione (passaggio, porte aperte, eventi della sezione, …) 
+*   Punti fissi del programma annuale della sezione (passaggio, porte aperte, eventi della sezione, …)
 *   Stabilire il numero e le date delle attività
 *   C'è un fine settimana o un campo integrato nella pianificazione?
 *   In quale stagione si svolge il programma (QP)?
@@ -21,9 +21,9 @@ Ci sono dei punti della valutazione dell'ultimo trimestre, che sono importanti p
 
 *   Fissare gli obiettivi (Cosa dovrebbero imparare i partecipanti durante il trimestre? Che cosa vogliono raggiungere gli animatori?)
 *   Fissare un motto che supporti gli obiettivi
-*   Pianificare un'attività variata: promuovere tutte e 5 le relazioni, usare metodi diversi 
-*   Elaborare approssimativamente il filo conduttore per ogni attività   
-*   Attività che introduce il tema 
+*   Pianificare un'attività variata: promuovere tutte e 5 le relazioni, usare metodi diversi
+*   Elaborare approssimativamente il filo conduttore per ogni attività
+*   Attività che introduce il tema
 *   Parte principale con diverse attività, che portano passo dopo passo al momento più importante
 *   Determinare il momento più importante del tema selezionato
 *   Momento conclusivo
@@ -33,14 +33,14 @@ Verbale scritto del programma trimestrale e distribuito a tutti gli animatori, a
 
 ### Informazioni ai partecipanti
 
-Inviare per tempo una lettera informativa motivazionale ai genitori e ai partecipanti 
+Inviare per tempo una lettera informativa motivazionale ai genitori e ai partecipanti
 Introduzione al filo conduttore
-Date delle attività 
+Date delle attività
 Lista degli indirizzi degli animatori
 
-[👉 Pianificazione dettagliata delle singole attività](/it/article/01)
+[👉 Pianificazione dettagliata delle singole attività](/article/01)
 
-[👉 Analisi del QP dopo l’ultima attività](/it/article/04)
+[👉 Analisi del QP dopo l’ultima attività](/article/04)
 
 ### Ulteriori informazioni
 | | |

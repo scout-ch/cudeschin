@@ -38,9 +38,9 @@ Consigner le PT par écrit et le transmettre à tous les responsables, inclus le
 * Dates des diverses activités
 * Liste des adresses des responsables
 
-[👉 Planification des activités](/fr/article/01)
+[👉 Planification des activités](/article/01)
 
-[👉 Evaluation du PT après la dernière activité](/fr/article/04)
+[👉 Evaluation du PT après la dernière activité](/article/04)
 
 
 ### Plus d'informations

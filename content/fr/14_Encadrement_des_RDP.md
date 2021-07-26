@@ -1,7 +1,7 @@
 🎓 Encadrement des responsables de patrouille
 ---------------------------------------------
 Les responsables de patrouille de 13-14 ans doivent être bien accompagnés et encadrés, afin qu'ils se sentent à l'aise, qu'ils prennent volontiers la responsabilité sur leur patrouille et que la sécurité de leur activité soit garantie.
-L'encadrement doit être adapté aux besoins et aux expériences 
+L'encadrement doit être adapté aux besoins et aux expériences
 
 **1. Fixer les conditions cadres**
 
@@ -29,12 +29,12 @@ L'encadrement doit être adapté aux besoins et aux expériences
 
 **6. Evaluer l'activité**
 
-- A réaliser avec les responsables de patrouille 
+- A réaliser avec les responsables de patrouille
 - Féliciter les responsables de patouille pour l'activité!
 
 Important: la maitrise peut demander des adaptations ou interdire une activité, si celle-ci est trop dangereuse!
 
-[👉 Lien vers: „Activités de patrouille“](/fr/article/13)
+[👉 Lien vers: „Activités de patrouille“](/article/13)
 
 ### Plus d'informations
 | | |

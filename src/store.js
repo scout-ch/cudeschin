@@ -1,17 +1,26 @@
 import articlesSource from '@/assets/articles.json';
 import marked from 'marked';
 
+const translations = ['de', 'fr', 'it'];
+
 class ArticleStore {
     constructor() {
-        this.articles = articlesSource;
+        const browser_language = navigator.language.substring(0, 2);
+        this.activate(browser_language);
+    }
+
+    activate(language) {
+        const lang = translations.includes(language) ? language : 'de';
+        this.articles = articlesSource[lang];
+        this.load();
     }
 
     get all() {
         return this.articles;
     }
 
-    find(slug) {
-        return this.articles.find(a => a.slug === slug);
+    find(id) {
+        return this.articles.find(a => a.id === id);
     }
 
     load() {
@@ -29,6 +38,5 @@ class ArticleStore {
 }
 
 const store = new ArticleStore();
-store.load();
 
 export default store;

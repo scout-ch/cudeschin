@@ -1,9 +1,9 @@
 🏗️ Pianificare l’attività
 -------------------------
 
-L'attività è già stata pianificata approssimativamente durante la [Pianificazione trimestrale](/it/article/05). Questi documenti servono come base per la pianificazione dettagliata. 
+L'attività è già stata pianificata approssimativamente durante la [Pianificazione trimestrale](/article/05). Questi documenti servono come base per la pianificazione dettagliata.
 
-#### Chiarire le condizioni generali 
+#### Chiarire le condizioni generali
 
 * Dove deve svolgersi l’attività?
 * Quale attività è prevista?
@@ -19,7 +19,7 @@ L'attività è già stata pianificata approssimativamente durante la [Pianificaz
 
 *   Che cosa dovrebbero imparare e sperimentare i partecipanti?
 *   Che cosa vogliamo ottenere noi come animatori?
-*   Quali relazioni si vogliono promuovere? 
+*   Quali relazioni si vogliono promuovere?
 *   Quali sono i metodi utilizzati?
 
 #### Gli obiettivi dovrebbero
@@ -31,7 +31,7 @@ L'attività è già stata pianificata approssimativamente durante la [Pianificaz
 
 #### L’attività
 
-*   ha un’introduzione, una parte principale e una parte finale 
+*   ha un’introduzione, una parte principale e una parte finale
 *   contiene un apice
 *   è adatto alla branca
 *   è vario ed equilibrato

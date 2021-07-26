@@ -7,7 +7,7 @@
             @click.native="openCard"
         >
             <f7-card-header class="no-padding" valign="bottom">
-                <f7-link :href="'/article/' + article.slug">
+                <f7-link :href="'/article/' + article.id">
                     {{ article.title }}
                 </f7-link>
             </f7-card-header>

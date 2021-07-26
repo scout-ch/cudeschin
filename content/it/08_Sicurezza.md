@@ -11,7 +11,7 @@ Cosa può capitare?
 
 Quali pericoli si nascondono nelle attività?
 
-Autovalutazione: Ho l'esperienza e le competenze necessarie per svolgere un'attività sicura?   
+Autovalutazione: Ho l'esperienza e le competenze necessarie per svolgere un'attività sicura?
 
 #### Misure per contrastare i pericoli e i rischi identificati
 
@@ -28,16 +28,16 @@ Che cosa si fa per minimizzare o eliminare i pericoli e i rischi?
 
 #### Preparazione per situazioni di emergenza
 
-[E se capitasse qualcosa? 🤔](/it/article/10)
+[E se capitasse qualcosa? 🤔](/article/10)
 
-*   Procedure in caso di emergenze e responsabilità 
+*   Procedure in caso di emergenze e responsabilità
 
 *   Avere pronto il materiale necessario in caso di emergenze (farmacia, cellulare, numeri d’emergenza)
-*   Conoscere il medico, l’ospedale, i servizi di emergenza, la farmacia più vicini 
+*   Conoscere il medico, l’ospedale, i servizi di emergenza, la farmacia più vicini
 
 ### Principi di sicurezza
 
-*   Pensare in anticipo 
+*   Pensare in anticipo
 *   Avere sotto controllo la situazione
 *   Stabilire regole chiare ed esigere il rispetto delle stesse
 *   Esprimere incertezze e preoccupazioni
@@ -47,7 +47,7 @@ Che cosa si fa per minimizzare o eliminare i pericoli e i rischi?
 *   Valutazione della situazione in difensiva, se in dubbio non eseguire.
 *   Cercare supporto (CSZ, coach, ecc.)
 
-### Attività rilevanti per la sicurezza:     
+### Attività rilevanti per la sicurezza:
 
 Ogni attività può comportare dei pericoli e quindi richiede considerazioni e misure di sicurezza. Un concetto di sicurezza specifico deve essere elaborato, se un'attività si svolge in una delle tre aree di sicurezza della montagna, dell'inverno o dell'acqua, o se si stabilisce durante la pianificazione che le attività richiedono maggiore sicurezza. Questi includono campi, escursioni, bivacchi, gite in bicicletta/pattini in linea, attività con corde, costruzioni pionieristiche, grandi giochi impegnativi, attività sportive in terreni accidentati, attività invernali e acquatiche.
 

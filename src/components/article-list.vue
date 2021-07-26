@@ -4,7 +4,7 @@
             v-for="article in articles"
             :key="article.id"
             :title="article.title"
-            :link="'/article/' + article.slug"
+            :link="'/article/' + article.id"
             :data-text="article.content"
         >
             <div slot="content" class="source-text">

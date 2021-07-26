@@ -20,7 +20,7 @@
 import articles from '@/store';
 
 export default {
-    props: ['slug'],
+    props: ['id'],
     mounted: function() {
         this.$$('article a').each((index, link) => {
             console.log(link.href);
@@ -33,7 +33,7 @@ export default {
     },
     computed: {
         article: function() {
-            return articles.find(this.slug);
+            return articles.find(this.id);
         }
     },
     methods: {
@@ -46,7 +46,7 @@ export default {
             } catch (e) {
                 this.$f7.dialog.alert(
                     'Leider bietet dein Browser keine Unterstüzung für dieses Feature. ' +
-                        'Du kannst aber auch einfach die URL kopieren und den Artikel so teilen.',
+                    'Du kannst aber auch einfach die URL kopieren und den Artikel so teilen.',
                     'Ooops, ein Fehler!'
                 );
             }
