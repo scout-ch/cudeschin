@@ -4,52 +4,53 @@
 
 ###Pianificare un'attività - Idee concrete
 
-* [LA im Kindersport](https://www.scout.ch/de/pfadialltag/lager/hilfsmittel/la-im-kindersport) 
+* [Attvita da campo per i bambini](https://pfadi.swiss/media/files/e2/it_la-himi_print_final_20181017.pdf) 
 * [Mobilesport](https://www.mobilesport.ch/it/)
-* [Pfadispiele](https://www.pfadispiele.ch/) 
+* [Gioci scout](https://www.pfadispiele.ch/) 
 * [Spika Jubla](https://spika.ch/)
 
 ###Pagine tematiche della MSdS
 
-* [Scout.swiss als Pfadi-Teaser](www.scout.swiss) 
-* [www.pbs.ch mit Infos für Leitende](www.pbs.ch)
-* [Ausbildungsseite PBS](www.ausbildung.pbs.ch)
-* [Betreuungsseite PBS](www.betreuung.pbs.ch) 
-* [Lagerseite PBS](www.lager.pbs.ch)
-* [Motivationsseite PBS](www.motivation.pbs.ch)
-* [Integrationsseite der PBS](www.integration.pbs.ch)
-* [Präventionsseite der PBS](www.praevention.pbs.ch)
-* [Benevole](www.benevole.pbs.ch)
-* [RISC](www.risc.pbs.ch)
-* [Pfaditechnikseite der PBS](www.pfaditechnik.pbs.ch)
-* [Internationales](www.international.pbs.ch)
-* [Cudesch](www.cudesch.pbs.ch)
-* [Pfadiprofil](www.pfadiprofil.pbs.ch)
+* [Scout.swiss come Teaser-scout](https://www.scout.swiss) 
+* [www.pbs.ch con informazioni per i capi](https://www.pfadi.swiss)
+* [Pagina di formazione MSS](hhttps://pfadi.swiss/it/formazione-accompagnamento/formazione/)
+* [Pagina di accompagnamento MSS](https://pfadi.swiss/it/formazione-accompagnamento/accompagnamento/) 
+* [Pagina di campo MSS](https://pfadi.swiss/it/attivita-scout/campo-scout/)
+* [Pagina di motivatione MSS](https://pfadi.swiss/it/attivita-scout/impegnato-quale-volontario/)
+* [Pagina di integrazione MSS](https://pfadi.swiss/it/attivita-scout/diversita-inclusione/)
+* [Pagina di prevenzione MSS](https://pfadi.swiss/it/attivita-scout/relazione-con-i-rischi/#prevenzione)
+* [Benevole](https://pfadi.swiss/it/attivita-scout/impegnato-quale-volontario/#benevole)
+* [RISC](https://www.risc.pbs.ch)
+* [Pagina di tecnica scout MSS](https://pfadi.swiss/it/attivita-scout/tecnica-scout/)
+* [Internazionale](https://pfadi.swiss/it/attivita-scout/eventi-scout-internazionali/)
+* [Cudesch](https://pfadi.swiss/it/formazione-accompagnamento/cudesch/)
+* [Profilo scout](https://pfadi.swiss/it/profilo-scout/)
 
 ####Informazioni specifiche del livello
-* [Biberstufe](www.biber.pbs.ch)
-* [Wolfsstufe](www.woelfe.pbs.ch)
-* [Pfadistufe](www.pfadis.pbs.ch)
-* [Piostufe](www.pios.pbs.ch)
-* [Roverstufe](www.rover.pbs.ch)
+* [I castori](https://pfadi.swiss/it/profilo-scout/castori/)
+* [I lupetti](https://pfadi.swiss/it/profilo-scout/lupetti/)
+* [Gli esploratori](https://pfadi.swiss/it/profilo-scout/esploratori/)
+* [I pionieri](https://pfadi.swiss/it/profilo-scout/pionieri/)
+* [I rover](https://pfadi.swiss/it/profilo-scout/rover/)
+* [Gli SOC](https://pfadi.swiss/it/profilo-scout/soc/)
 
 ###Pianificazione del campo
 * [MiData](https://db.scout.ch/)
-* [Faires Lager](www.faires-lager.ch)
-* [eCamp Lagerplanungstool(DE)](https://ecamp.pfadiluzern.ch/)
-* [Pfadiheimverzeichnis](www.pfadiheime.ch)
-* [Pfadistiftung](www.pfadistiftung.ch)
-* [Lagerkochbuch](https://lagerkochbuch.ch)
+* [Campo equo (Francese)](https://www.faires-lager.ch)
+* [eCamp - strumento pianificazione del campo(solo Tedesco)](https://ecamp.pfadiluzern.ch/)
+* [Elenco delle case scout (solo Tedesco)](https://www.pfadiheime.ch)
+* [Fondazione svizzera dello scoutismo](https://www.pfadistiftung.ch/it/benvenuti/)
+* [Ricettario del campo (solo Tedesco)](https://lagerkochbuch.ch)
 
 ###Altri argomenti (rilevanti)
-* [Issuu Katalog PBS](https://issuu.com/pbs-msds-mss)
-* [J+S - Lagersport/Trekking](https://www.jugendundsport.ch/it/sportarten/lagersport-trekking-uebersicht.html) >> separatamente ai PDF, come «Fattore Uomo»  
-* [Hajk](www.hajk.ch)
-* [Jugendurlaub](www.jugendurlaub.ch)
-* [Pfadi Toolbox (DE)](https://pfadi-toolbox.ch/) 
-* [Scout.org](www.scout.org)
-* [WAGGGS](www.wagggs.org)
-* [Pfadinamen](www.pfadinamen.ch)
+* [Issuu catalogo MSS](https://issuu.com/pbs-msds-mss)
+* [G+S - Sport di campo/Trekking](https://www.jugendundsport.ch/it/sportarten/lagersport-trekking-uebersicht.html) >> separatamente ai PDF, come «Fattore Uomo»  
+* [Hajk](https://www.hajk.ch)
+* [Jugendurlaub](https://www.jugendurlaub.ch)
+* [Pfadi Toolbox (solo Tedesco)](https://pfadi-toolbox.ch/) 
+* [Scout.org](https://www.scout.org)
+* [WAGGGS](https://www.wagggs.org)
+* [Nomi di scout (solo Tedesco)](https://www.pfadinamen.ch)
 
 ####Campo federale - mova
 <!--natürlich nur zeitlich begrenzt-->
