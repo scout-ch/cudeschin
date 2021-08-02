@@ -28,11 +28,12 @@
 * [Pfadiprofil](www.pfadiprofil.pbs.ch)
 
 #### Stufenspezifische Informationen
-* [Biberstufe](www.biber.pbs.ch)
-* [Wolfsstufe](www.woelfe.pbs.ch)
-* [Pfadistufe](www.pfadis.pbs.ch)
-* [Piostufe](www.pios.pbs.ch)
-* [Roverstufe](www.rover.pbs.ch)
+* [Biberstufe](https://pfadi.swiss/de/pfadiprofil/biber/)
+* [Wolfsstufe](https://pfadi.swiss/de/pfadiprofil/woelfe/)
+* [Pfadistufe](https://pfadi.swiss/de/pfadiprofil/pfadis/)
+* [Piostufe](https://pfadi.swiss/de/pfadiprofil/pios/)
+* [Roverstufe](https://pfadi.swiss/de/pfadiprofil/rover/)
+* [PTA](https://pfadi.swiss/de/pfadiprofil/pta/)
 
 ### Lagerplanung
 * [MiData](https://db.scout.ch/)

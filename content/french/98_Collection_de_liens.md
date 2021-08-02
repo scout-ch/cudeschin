@@ -27,29 +27,30 @@
 * [Pfadiprofil](www.pfadiprofil.pbs.ch)
 
 ####Informations spécifiques au niveau
-* [Biberstufe](www.biber.pbs.ch)
-* [Wolfsstufe](www.woelfe.pbs.ch)
-* [Pfadistufe](www.pfadis.pbs.ch)
-* [Piostufe](www.pios.pbs.ch)
-* [Roverstufe](www.rover.pbs.ch)
+* [Les castors](https://pfadi.swiss/fr/pfadiprofil/castors/)
+* [Les louveteaux](https://pfadi.swiss/fr/profil-scoutisme/louveteaux/)
+* [Les éclais](https://pfadi.swiss/fr/pfadiprofil/eclais/)
+* [Les picos](https://pfadi.swiss/fr/profil-scoutisme/picos/)
+* [Les routiers](https://pfadi.swiss/fr/pfadiprofil/routiers/)
+* [Les SMT](https://pfadi.swiss/fr/pfadiprofil/smt/)
 
 ###Planification du camp
-* [MiData](https://db.scout.ch/)
-* [Faires Lager](www.faires-lager.ch)
+* [MiData](https://https://db.scout.ch/)
+* [Camp équitable](https://www.faires-lager.ch)
 * [eCamp Lagerplanungstool(DE)](https://ecamp.pfadiluzern.ch/)
-* [Pfadiheimverzeichnis](www.pfadiheime.ch)
-* [Pfadistiftung](www.pfadistiftung.ch)
+* [Pfadiheimverzeichnis](https://www.pfadiheime.ch)
+* [Pfadistiftung](https://www.pfadistiftung.ch)
 * [Lagerkochbuch](https://lagerkochbuch.ch)
 
 ###Autres sujets (pertinents)
 * [Issuu Katalog PBS](https://issuu.com/pbs-msds-mss)
-* [J+S - Sport de Camp/Trekking](www.jugendundsport.ch/fr/sportarten/lagersport-trekking-uebersicht.html) >> séparément aux PDF, comme «Facteur homme»  
-* [Hajk](www.hajk.ch)
-* [Jugendurlaub](www.jugendurlaub.ch)
+* [J+S - Sport de Camp/Trekking](https://www.jugendundsport.ch/fr/sportarten/lagersport-trekking-uebersicht.html) >> séparément aux PDF, comme «Facteur homme»  
+* [Hajk](https://www.hajk.ch)
+* [Jugendurlaub](https://www.jugendurlaub.ch)
 * [Pfadi Toolbox (DE)](https://pfadi-toolbox.ch/) 
-* [Scout.org](www.scout.org)
-* [WAGGGS](www.wagggs.org)
-* [Pfadinamen](www.pfadinamen.ch)
+* [Scout.org](https://www.scout.org)
+* [WAGGGS](https://www.wagggs.org)
+* [Pfadinamen](https://www.pfadinamen.ch)
 
 ####Camp fédérale - mova
 <!--natürlich nur zeitlich begrenzt-->
