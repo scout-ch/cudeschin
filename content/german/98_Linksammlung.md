@@ -52,6 +52,7 @@
 * [Scout.org](www.scout.org)
 * [WAGGGS](www.wagggs.org)
 * [Pfadinamen](www.pfadinamen.ch)
+* [Pfadikurs Website (Themensammlung)](https://sites.google.com/view/pfadikurs/startseite)
 
 #### Bundes Lager - mova
 <!--natürlich nur zeitlich begrenzt-->

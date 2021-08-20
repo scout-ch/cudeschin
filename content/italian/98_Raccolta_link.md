@@ -2,14 +2,14 @@
 
 <!--Alles, was Appendix so in den Sinn kam… Er ist froh um Ergänzungen 😉 -->
 
-###Pianificare un'attività - Idee concrete
+### Pianificare un'attività - Idee concrete
 
 * [Attvita da campo per i bambini](https://pfadi.swiss/media/files/e2/it_la-himi_print_final_20181017.pdf) 
 * [Mobilesport](https://www.mobilesport.ch/it/)
 * [Gioci scout](https://www.pfadispiele.ch/) 
 * [Spika Jubla](https://spika.ch/)
 
-###Pagine tematiche della MSdS
+### Pagine tematiche della MSdS
 
 * [Scout.swiss come Teaser-scout](https://www.scout.swiss) 
 * [www.pbs.ch con informazioni per i capi](https://www.pfadi.swiss)
@@ -26,7 +26,7 @@
 * [Cudesch](https://pfadi.swiss/it/formazione-accompagnamento/cudesch/)
 * [Profilo scout](https://pfadi.swiss/it/profilo-scout/)
 
-####Informazioni specifiche del livello
+#### Informazioni specifiche del livello
 * [I castori](https://pfadi.swiss/it/profilo-scout/castori/)
 * [I lupetti](https://pfadi.swiss/it/profilo-scout/lupetti/)
 * [Gli esploratori](https://pfadi.swiss/it/profilo-scout/esploratori/)
@@ -34,7 +34,7 @@
 * [I rover](https://pfadi.swiss/it/profilo-scout/rover/)
 * [Gli SOC](https://pfadi.swiss/it/profilo-scout/soc/)
 
-###Pianificazione del campo
+### Pianificazione del campo
 * [MiData](https://db.scout.ch/)
 * [Campo equo (Francese)](https://www.faires-lager.ch)
 * [eCamp - strumento pianificazione del campo(solo Tedesco)](https://ecamp.pfadiluzern.ch/)
@@ -42,7 +42,7 @@
 * [Fondazione svizzera dello scoutismo](https://www.pfadistiftung.ch/it/benvenuti/)
 * [Ricettario del campo (solo Tedesco)](https://lagerkochbuch.ch)
 
-###Altri argomenti (rilevanti)
+### Altri argomenti (rilevanti)
 * [Issuu catalogo MSS](https://issuu.com/pbs-msds-mss)
 * [G+S - Sport di campo/Trekking](https://www.jugendundsport.ch/it/sportarten/lagersport-trekking-uebersicht.html) >> separatamente ai PDF, come «Fattore Uomo»  
 * [Hajk](https://www.hajk.ch)
@@ -51,12 +51,13 @@
 * [Scout.org](https://www.scout.org)
 * [WAGGGS](https://www.wagggs.org)
 * [Nomi di scout (solo Tedesco)](https://www.pfadinamen.ch)
+* [Pfadikurs Website (Themensammlung Kursteam PRB)](https://sites.google.com/view/pfadikurs/startseite)
 
-####Campo federale - mova
+#### Campo federale - mova
 <!--natürlich nur zeitlich begrenzt-->
 * [CaFe - mova](https://www.bula21.ch/) 
 
-###App utili
+### App utili
 
 <!--im Cudeschin-App am besten OS-abhängige Links verwenden -->
 

@@ -2,14 +2,14 @@
 ----------------------
 <!--Alles, was Appendix so in den Sinn kam… Er ist froh um Ergänzungen 😉 -->
 
-###Planifier une activité - Idées concrètes
+### Planifier une activité - Idées concrètes
 
 * [LA im Kindersport](https://pfadi.swiss/fr/activites-scoutes/experiences-camp/#supports) 
 * [Mobilesport](https://www.mobilesport.ch/fr/)
 * [Jeux du scoutes, seulement en allemand](https://www.pfadispiele.ch/) 
 * [Spika Jubla](https://spika.ch/)
 
-###Thèmes MSdS
+### Thèmes MSdS
 
 * [Scout.swiss als Pfadi-Teaser](www.scout.swiss) 
 * [www.pbs.ch mit Infos für Leitende](www.pbs.ch)
@@ -26,7 +26,7 @@
 * [Cudesch](www.cudesch.pbs.ch)
 * [Pfadiprofil](www.pfadiprofil.pbs.ch)
 
-####Informations spécifiques au niveau
+#### Informations spécifiques au niveau
 * [Les castors](https://pfadi.swiss/fr/pfadiprofil/castors/)
 * [Les louveteaux](https://pfadi.swiss/fr/profil-scoutisme/louveteaux/)
 * [Les éclais](https://pfadi.swiss/fr/pfadiprofil/eclais/)
@@ -34,15 +34,16 @@
 * [Les routiers](https://pfadi.swiss/fr/pfadiprofil/routiers/)
 * [Les SMT](https://pfadi.swiss/fr/pfadiprofil/smt/)
 
-###Planification du camp
+### Planification du camp
 * [MiData](https://https://db.scout.ch/)
 * [Camp équitable](https://www.faires-lager.ch)
 * [eCamp Lagerplanungstool(DE)](https://ecamp.pfadiluzern.ch/)
+* [My scout camp](https://www.my-scout-camp.ch/fr/login)
 * [Pfadiheimverzeichnis](https://www.pfadiheime.ch)
 * [Pfadistiftung](https://www.pfadistiftung.ch)
 * [Lagerkochbuch](https://lagerkochbuch.ch)
 
-###Autres sujets (pertinents)
+### Autres sujets (pertinents)
 * [Issuu Katalog PBS](https://issuu.com/pbs-msds-mss)
 * [J+S - Sport de Camp/Trekking](https://www.jugendundsport.ch/fr/sportarten/lagersport-trekking-uebersicht.html) >> séparément aux PDF, comme «Facteur homme»  
 * [Hajk](https://www.hajk.ch)
@@ -51,12 +52,13 @@
 * [Scout.org](https://www.scout.org)
 * [WAGGGS](https://www.wagggs.org)
 * [Pfadinamen](https://www.pfadinamen.ch)
+* [Pfadikurs Website (Collection d'une équipe PRB, seulement en allemand)](https://sites.google.com/view/pfadikurs/startseite)
 
-####Camp fédérale - mova
+#### Camp fédérale - mova
 <!--natürlich nur zeitlich begrenzt-->
 * [CaFé - mova](https://www.bula21.ch/) 
 
-###Applications utiles 
+### Applications utiles 
 
 <!--im Cudeschin-App am besten OS-abhängige Links verwenden -->
 
