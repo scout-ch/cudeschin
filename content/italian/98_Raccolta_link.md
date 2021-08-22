@@ -19,8 +19,8 @@
 * [Pagina di motivatione MSS](https://pfadi.swiss/it/attivita-scout/impegnato-quale-volontario/)
 * [Pagina di integrazione MSS](https://pfadi.swiss/it/attivita-scout/diversita-inclusione/)
 * [Pagina di prevenzione MSS](https://pfadi.swiss/it/attivita-scout/relazione-con-i-rischi/#prevenzione)
-* [Benevole](https://pfadi.swiss/it/attivita-scout/impegnato-quale-volontario/#benevole)
-* [RISC](https://www.risc.pbs.ch)
+* [Bénévole](https://pfadi.swiss/it/attivita-scout/impegnato-quale-volontario/#benevole)
+* [RISC - Radio and internet scouting](https://risc.pbs.ch/fr/)
 * [Pagina di tecnica scout MSS](https://pfadi.swiss/it/attivita-scout/tecnica-scout/)
 * [Internazionale](https://pfadi.swiss/it/attivita-scout/eventi-scout-internazionali/)
 * [Cudesch](https://pfadi.swiss/it/formazione-accompagnamento/cudesch/)
@@ -46,12 +46,13 @@
 * [Issuu catalogo MSS](https://issuu.com/pbs-msds-mss)
 * [G+S - Sport di campo/Trekking](https://www.jugendundsport.ch/it/sportarten/lagersport-trekking-uebersicht.html) >> separatamente ai PDF, come «Fattore Uomo»  
 * [Hajk](https://www.hajk.ch)
-* [Jugendurlaub](https://www.jugendurlaub.ch)
+* [Congedo giovanile](https://www.sajv.ch/it/servizi/congedo-giovanile-anche-per-te/)
 * [Pfadi Toolbox (solo Tedesco)](https://pfadi-toolbox.ch/) 
 * [Scout.org](https://www.scout.org)
 * [WAGGGS](https://www.wagggs.org)
 * [Nomi di scout (solo Tedesco)](https://www.pfadinamen.ch)
-* [Pfadikurs Website (Themensammlung Kursteam PRB)](https://sites.google.com/view/pfadikurs/startseite)
+* [Corso scout PRB Website - Homepage (solo Tedesco)](https://sites.google.com/view/pfadikurs/startseite)
+* [Corso scout PRB Website - Sicurezza](https://sites.google.com/view/pfadikurs/sicherheitsbereiche)
 
 #### Campo federale - mova
 <!--natürlich nur zeitlich begrenzt-->

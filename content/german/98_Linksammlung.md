@@ -13,15 +13,15 @@
 ### PBS Themenseiten
 
 * [Scout.swiss als Pfadi-Teaser](www.scout.swiss)
-* [www.pbs.ch mit Infos für Leitende](www.pbs.ch)
+* [www.pbs.ch mit Infos für Leitende](www.pfadi.swiss)
 * [Ausbildungsseite PBS](www.ausbildung.pbs.ch)
 * [Betreuungsseite PBS](www.betreuung.pbs.ch)
 * [Lagerseite PBS](www.lager.pbs.ch)
 * [Motivationsseite PBS](www.motivation.pbs.ch)
-* [Integrationsseite der PBS](www.integration.pbs.ch)
+* [Diversität und Inklusionsseite der PBS](https://pfadi.swiss/de/pfadiaktivitaten/diversitaet-inklusion/)
 * [Präventionsseite der PBS](www.praevention.pbs.ch)
-* [Benevole](www.benevole.pbs.ch)
-* [RISC](www.risc.pbs.ch)
+* [Bénévole](https://pfadi.swiss/de/pfadiaktivitaten/ehrenamtlich-engagiert/#benevole)
+* [RISC - Radio and internet scouting](https://risc.pbs.ch/de/)
 * [Pfaditechnikseite der PBS](www.pfaditechnik.pbs.ch)
 * [Internationales](www.international.pbs.ch)
 * [Cudesch](www.cudesch.pbs.ch)
@@ -47,12 +47,12 @@
 * [Issuu Katalog PBS](https://issuu.com/pbs-msds-mss)
 * [J+S - Lagersport/Trekking](www.jugendundsport.ch/de/sportarten/lagersport-trekking-uebersicht.html) >> separat zu PDFs, wie «Faktor Mensch»
 * [Hajk](www.hajk.ch)
-* [Jugendurlaub](www.jugendurlaub.ch)
-* [Pfadi Toolbox (DE)](https://pfadi-toolbox.ch/)
+* [Jugendurlaub](https://www.sajv.ch/de/dienstleistungen/jugendurlaub-auch-fuer-dich/)
+* [Pfadi Toolbox](https://pfadi-toolbox.ch/)
 * [Scout.org](www.scout.org)
 * [WAGGGS](www.wagggs.org)
 * [Pfadinamen](www.pfadinamen.ch)
-* [Pfadikurs Website (Themensammlung)](https://sites.google.com/view/pfadikurs/startseite)
+* [Pfadikurs Website (Themensammlung Kursteam PRB)](https://sites.google.com/view/pfadikurs/startseite)
 
 #### Bundes Lager - mova
 <!--natürlich nur zeitlich begrenzt-->

@@ -4,27 +4,27 @@
 
 ### Planifier une activité - Idées concrètes
 
-* [LA im Kindersport](https://pfadi.swiss/fr/activites-scoutes/experiences-camp/#supports) 
+* [Activités de camp pour enfants](https://pfadi.swiss/fr/activites-scoutes/experiences-camp/#:~:text=Activit%C3%A9s%20de-,camp,-pour%20enfants) 
 * [Mobilesport](https://www.mobilesport.ch/fr/)
 * [Jeux du scoutes, seulement en allemand](https://www.pfadispiele.ch/) 
 * [Spika Jubla](https://spika.ch/)
 
 ### Thèmes MSdS
 
-* [Scout.swiss als Pfadi-Teaser](www.scout.swiss) 
-* [www.pbs.ch mit Infos für Leitende](www.pbs.ch)
-* [Ausbildungsseite PBS](www.ausbildung.pbs.ch)
-* [Betreuungsseite PBS](www.betreuung.pbs.ch) 
-* [Lagerseite PBS](www.lager.pbs.ch)
-* [Motivationsseite PBS](www.motivation.pbs.ch)
-* [Integrationsseite der PBS](www.integration.pbs.ch)
-* [Präventionsseite der PBS](www.praevention.pbs.ch)
-* [Benevole](www.benevole.pbs.ch)
-* [RISC](www.risc.pbs.ch)
-* [Pfaditechnikseite der PBS](www.pfaditechnik.pbs.ch)
-* [Internationales](www.international.pbs.ch)
-* [Cudesch](www.cudesch.pbs.ch)
-* [Pfadiprofil](www.pfadiprofil.pbs.ch)
+* [Scout.swiss comme Teaser scoute](https://www.scout.swiss) 
+* [www.pbs.ch avec des Informations pour les résponsables](https://www.pfadi.swiss)
+* [Page de formation de la MSdS](https://pfadi.swiss/fr/formation-encadrement/formation/)
+* [Page d'encadrement de la MSds](https://pfadi.swiss/fr/formation-encadrement/encadrement/) 
+* [Page du camp de la MSdS](https://pfadi.swiss/fr/activites-scoutes/experiences-camp/)
+* [Page du motivation de la MSdS](https://pfadi.swiss/fr/activites-scoutes/engagement-benevole/#:~:text=Pack-,motivation,-Le%20pack%20motivation)
+* [Page diversité et inclusion de la MSdS](https://pfadi.swiss/fr/activites-scoutes/diversite-inclusion/)
+* [Page du prévention de la MSdS](https://pfadi.swiss/fr/activites-scoutes/diversite-inclusion/)
+* [Bénévole](https://pfadi.swiss/fr/activites-scoutes/engagement-benevole/#benevole)
+* [RISC - Radio and internet scouting](https://risc.pbs.ch/fr/)
+* [Page du technique scoute de la MSdS](https://pfadi.swiss/fr/activites-scoutes/technique-scoute/)
+* [Page internationale de la MSdS](https://pfadi.swiss/fr/activites-scoutes/aventure-scoute-internationale/)
+* [Cudesch](https://pfadi.swiss/fr/formation-encadrement/cudesch/)
+* [Page du profil du scoutisme](https://pfadi.swiss/fr/profil-scoutisme/)
 
 #### Informations spécifiques au niveau
 * [Les castors](https://pfadi.swiss/fr/pfadiprofil/castors/)
@@ -37,23 +37,24 @@
 ### Planification du camp
 * [MiData](https://https://db.scout.ch/)
 * [Camp équitable](https://www.faires-lager.ch)
-* [eCamp Lagerplanungstool(DE)](https://ecamp.pfadiluzern.ch/)
+* [eCamp Lagerplanungstool (seulement en allemand)](https://ecamp.pfadiluzern.ch/)
 * [My scout camp](https://www.my-scout-camp.ch/fr/login)
-* [Pfadiheimverzeichnis](https://www.pfadiheime.ch)
-* [Pfadistiftung](https://www.pfadistiftung.ch)
+* [Répertoire des maisons scoutes](https://www.pfadiheime.ch)
+* [Fondation suisse du scoutisme](https://pfadistiftung.ch/fr/accueil/)
 * [Lagerkochbuch](https://lagerkochbuch.ch)
 
 ### Autres sujets (pertinents)
-* [Issuu Katalog PBS](https://issuu.com/pbs-msds-mss)
+* [Catalgoue Issuu de la MSdS](https://issuu.com/pbs-msds-mss)
 * [J+S - Sport de Camp/Trekking](https://www.jugendundsport.ch/fr/sportarten/lagersport-trekking-uebersicht.html) >> séparément aux PDF, comme «Facteur homme»  
 * [Hajk](https://www.hajk.ch)
-* [Jugendurlaub](https://www.jugendurlaub.ch)
-* [Pfadi Toolbox (DE)](https://pfadi-toolbox.ch/) 
+* [Vacances des jeunes](https://www.sajv.ch/fr/services/conge-jeunesse-aussi-pour-toi/)
+* [Pfadi Toolbox (seulement en allemand)](https://pfadi-toolbox.ch/) 
 * [Scout.org](https://www.scout.org)
 * [WAGGGS](https://www.wagggs.org)
 * [Pfadinamen](https://www.pfadinamen.ch)
-* [Pfadikurs Website (Collection d'une équipe PRB, seulement en allemand)](https://sites.google.com/view/pfadikurs/startseite)
-
+* [Site web du cours scout PRB - Page d'accueil (seulement en allemand)](https://sites.google.com/view/pfadikurs/startseite)
+* [Site web du cours scout PRB - Zones de sécurité](https://sites.google.com/view/pfadikurs/sicherheitsbereiche)
+  
 #### Camp fédérale - mova
 <!--natürlich nur zeitlich begrenzt-->
 * [CaFé - mova](https://www.bula21.ch/) 
