@@ -98,6 +98,11 @@
 * [iOS](https://apps.apple.com/ch/app/swisstopo/id1505986543)
 * [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo&hl=de_CH)
 
+[swisstopo App](https://www.swisstopo.admin.ch/de/karten-daten-online/karten-geodaten-online/swisstopo-app.html)
+
+* [iOS](https://apps.apple.com/ch/app/id1505986543)
+* [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo)
+
 [Kahoot Quizapp](https://kahoot.it/)
 
 * [iOS](https://apps.apple.com/ch/app/kahoot-play-create-quizzes/id1131203560)

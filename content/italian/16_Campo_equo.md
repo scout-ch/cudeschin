@@ -49,4 +49,4 @@ Vivere uno stile di vita sostenibile è impegnativo. Cerchiamo soluzioni positiv
 |---|---|
 | [![](images/piktos/www.png)][1] | [Più idee, giochi e ricette (tedesco / francese)][1] |
 
-[1]: http://www.faires-lager.ch
+[1]: https://www.faires-lager.ch

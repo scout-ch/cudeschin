@@ -13,7 +13,7 @@
 
 * [Scout.swiss come Teaser-scout](https://www.scout.swiss) 
 * [www.pbs.ch con informazioni per i capi](https://www.pfadi.swiss)
-* [Pagina di formazione MSS](hhttps://pfadi.swiss/it/formazione-accompagnamento/formazione/)
+* [Pagina di formazione MSS](https://pfadi.swiss/it/formazione-accompagnamento/formazione/)
 * [Pagina di accompagnamento MSS](https://pfadi.swiss/it/formazione-accompagnamento/accompagnamento/) 
 * [Pagina di campo MSS](https://pfadi.swiss/it/attivita-scout/campo-scout/)
 * [Pagina di motivatione MSS](https://pfadi.swiss/it/attivita-scout/impegnato-quale-volontario/)
@@ -96,6 +96,11 @@ Swiss Map Mobile
 
 * [iOS](https://play.google.com/store/apps/details?id=com.garzotto.smma&hl=it_CH)
 * [Android](https://itunes.apple.com/ch/app/swiss-map-mobile/id311447284?mt=8)
+
+[App swisstopo](https://www.swisstopo.admin.ch/it/carte-dati-online/carte-geodati-online/swisstopo-app.html)
+
+* [iOS](https://apps.apple.com/ch/app/id1505986543?l=it)
+* [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo)
 
 [Kahoot Quizapp](https://kahoot.it/) 
 

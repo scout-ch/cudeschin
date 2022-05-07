@@ -98,6 +98,11 @@ Swiss Map Mobile
 * [iOS](https://play.google.com/store/apps/details?id=com.garzotto.smma&hl=fr_CH)
 * [Android](https://itunes.apple.com/ch/app/swiss-map-mobile/id311447284?mt=8)
 
+[App swisstopo](https://www.swisstopo.admin.ch/fr/cartes-donnees-en-ligne/cartes-geodonnees-en-ligne/swisstopo-app.html)
+
+* [iOS](https://apps.apple.com/ch/app/id1505986543?l=fr)
+* [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo)
+
 [Kahoot Quizapp](https://kahoot.it/) 
 
 * [iOS](https://apps.apple.com/ch/app/kahoot-play-create-quizzes/id1131203560)

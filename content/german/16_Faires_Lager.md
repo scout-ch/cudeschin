@@ -48,4 +48,4 @@ Einen nachhaltigen Lebensstil zu leben ist herausfordernd. Wir suchen positive L
 |---|---|
 | [![](images/piktos/www.png)][1] | [Weitere Ideen, Spiele und Rezepte][1] |
 
-[1]: http://www.faires-lager.ch
+[1]: https://www.faires-lager.ch
