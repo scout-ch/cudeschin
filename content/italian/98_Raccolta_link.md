@@ -69,7 +69,7 @@
 
 [Schweiz Mobil](https://www.schweizmobil.ch/de/app-schweizmobil-it.html) 
 
-* [iOS](http://itunes.apple.com/ch/app/schweizmobil/id527194959) 
+* [iOS](https://itunes.apple.com/ch/app/schweizmobil/id527194959) 
 * [Android](https://play.google.com/store/apps/details?id=ch.schweizmobil)
 
 [Rega](https://www.rega.ch/it/multimedia/rega-app.aspx)
@@ -89,8 +89,8 @@
 
 [Zecken App](https://www.zhaw.ch/en/lsfm/business-services/institute-of-natural-resource-sciences/ticks/tick-app/)
 
-* [iOS](http://appstore.com/apps/Zecke)
-* [Android](http://play.google.com/store/apps/details?id=com.garzotto.zecke)
+* [iOS](https://appstore.com/apps/Zecke)
+* [Android](https://play.google.com/store/apps/details?id=com.garzotto.zecke)
 
 Swiss Map Mobile 
 

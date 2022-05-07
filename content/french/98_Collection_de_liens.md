@@ -53,7 +53,7 @@
 * [WAGGGS](https://www.wagggs.org)
 * [Pfadinamen](https://www.pfadinamen.ch)
 * [Site web du cours scout PRB - Page d'accueil (seulement en allemand)](https://sites.google.com/view/pfadikurs/startseite)
-* [Site web du cours scout PRB - Zones de sécurité](https://sites.google.com/view/pfadikurs/sicherheitsbereiche)
+* [Site web du cours scout PRB - Sécurité](https://sites.google.com/view/pfadikurs/sicherheitsbereiche)
   
 #### Camp fédérale - mova
 <!--natürlich nur zeitlich begrenzt-->
@@ -70,7 +70,7 @@
 
 [Schweiz Mobil](https://www.schweizmobil.ch/de/app-schweizmobil-fr.html) 
 
-* [iOS](http://itunes.apple.com/ch/app/schweizmobil/id527194959) 
+* [iOS](https://itunes.apple.com/ch/app/schweizmobil/id527194959) 
 * [Android](https://play.google.com/store/apps/details?id=ch.schweizmobil)
 
 [Rega](https://www.rega.ch/fr/multimedia/rega-app.aspx)
@@ -90,8 +90,8 @@
 
 [Zecken App](https://www.zhaw.ch/en/lsfm/business-services/institute-of-natural-resource-sciences/ticks/tick-app/)
 
-* [iOS](http://appstore.com/apps/Zecke)
-* [Android](http://play.google.com/store/apps/details?id=com.garzotto.zecke)
+* [iOS](https://appstore.com/apps/Zecke)
+* [Android](https://play.google.com/store/apps/details?id=com.garzotto.zecke)
 
 Swiss Map Mobile 
 

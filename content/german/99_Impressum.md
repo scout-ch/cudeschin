@@ -16,4 +16,4 @@
 | Copyright: | 	Pfadibewegung Schweiz<br>Speichergasse 31<br>Postfach 529<br>3000 Bern 7<br>[www.pbs.ch](https://www.pbs.ch) |
 
 
-Falls du in dieser Broschüre einen Fehler oder Fehlendes findest, so freuen wir uns über einen Hinweis an die Adresse [verbesserungen@pbs.ch](verbesserungen@pbs.ch) – vielen Dank für deine Mithilfe!
+Falls du in dieser Broschüre einen Fehler oder Fehlendes findest, so freuen wir uns über einen Hinweis an die Adresse [verbesserungen@pbs.ch](mailto:verbesserungen@pbs.ch) – vielen Dank für deine Mithilfe!

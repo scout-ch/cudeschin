@@ -16,4 +16,4 @@
 | Copyright: | 	Mouvement scout de Suisse<br>Speichergasse 31<br>Postfach 529<br>3000 Bern 7<br>[www.msds.ch](https://www.msds.ch) |
 
 
-Si tu trouves des fautes ou des choses qui manquent dans cette brochure, nous nous réjouissons de recevoir ton input à l'adresse [verbesserungen@pbs.ch](verbesserungen@pbs.ch) – merci beaucoup pour ta collaborations!
+Si tu trouves des fautes ou des choses qui manquent dans cette brochure, nous nous réjouissons de recevoir ton input à l'adresse [verbesserungen@pbs.ch](mailto:verbesserungen@pbs.ch) – merci beaucoup pour ta collaborations!

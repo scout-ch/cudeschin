@@ -16,4 +16,4 @@ Impressum
 | Copyright: | 	Movimento Scout Svizzero <br>Speichergasse 31<br>Casella Postale 529<br>3000 Berna 7<br>[www.pbs.ch](https://www.pbs.ch) |
 
 
-Se trovi un errore o un'informazione mancante in questo opuscolo, saremmo lieti se puoi inviarla a [verbesserungen@pbs.ch](verbesserungen@pbs.ch) - grazie mille per il tuo aiuto!
+Se trovi un errore o un'informazione mancante in questo opuscolo, saremmo lieti se puoi inviarla a [verbesserungen@pbs.ch](mailto:verbesserungen@pbs.ch) - grazie mille per il tuo aiuto!
