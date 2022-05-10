@@ -42,4 +42,4 @@ Es gibt Flyer über die Pfadi in verschiedenen Sprachen.
 |---|---|
 | [![](images/piktos/4_Leiten.png)][1] | [Broschüre «Leiten – bewusst handeln» (S. 20-22)][1] |
 
-[1]: hhttps://issuu.com/pbs-msds-mss/docs/rz_04_leiten_de_201607_issuu
+[1]: https://issuu.com/pbs-msds-mss/docs/rz_04_leiten_de_201607_issuu

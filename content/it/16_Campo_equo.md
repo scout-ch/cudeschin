@@ -26,7 +26,6 @@
 
 - Idee per l'attuazione: Grande gioco con il tema Foodwaste (spreco di cibo), Programma con il tema Secondhand, Atelier Upcycling (riciclaggio).
 
-
 **Comportarsi da esempio:** Vivendo la nostra funzione in modo esemplare, saremo presi sul serio. Viviamo uno stile di vita sostenibile in modo positivo e coinvolgiamo i partecipanti.
 
 - Idee per l'attuazione: Trasmettere la cura del materiale tramite un teatrino divertente, fare un giro in bicicletta, cucinare insieme dei falafel
@@ -49,4 +48,4 @@ Vivere uno stile di vita sostenibile è impegnativo. Cerchiamo soluzioni positiv
 |---|---|
 | [![](images/piktos/www.png)][1] | [Più idee, giochi e ricette (tedesco / francese)][1] |
 
-[1]: http://www.faires-lager.ch
+[1]: https://www.faires-lager.ch

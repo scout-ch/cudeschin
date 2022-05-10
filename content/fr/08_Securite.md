@@ -24,7 +24,7 @@ Qu'est-ce qui est fait pour minimiser les risques et les dangers?
 *   Garantir un équipement adapté
 *   Utiliser du matériel fonctionnel et sûr (contrôler)
 *   Définir des mesures spécifiques à l'activité
-*   Respecter les standards de sécurité ([Règles de baignade SSS]( https://www.slrg.ch/fr/prevention/3x6-maximes/maximes-de-la-baignade.html), 5 règles de bases en hiver (cf. Brochure J+S «SdC/T – Hiver»))
+*   Respecter les standards de sécurité ([Règles de baignade SSS](https://www.slrg.ch/fr/prevention/3x6-maximes/maximes-de-la-baignade.html), 5 règles de bases en hiver (cf. Brochure J+S «SdC/T – Hiver»))
 
 #### Préparation à des situations d'urgence
 

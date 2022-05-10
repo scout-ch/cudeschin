@@ -14,14 +14,14 @@
 
 * [Scout.swiss come Teaser-scout](https://www.scout.swiss)
 * [www.pbs.ch con informazioni per i capi](https://www.pfadi.swiss)
-* [Pagina di formazione MSS](hhttps://pfadi.swiss/it/formazione-accompagnamento/formazione/)
+* [Pagina di formazione MSS](https://pfadi.swiss/it/formazione-accompagnamento/formazione/)
 * [Pagina di accompagnamento MSS](https://pfadi.swiss/it/formazione-accompagnamento/accompagnamento/)
 * [Pagina di campo MSS](https://pfadi.swiss/it/attivita-scout/campo-scout/)
 * [Pagina di motivatione MSS](https://pfadi.swiss/it/attivita-scout/impegnato-quale-volontario/)
 * [Pagina di integrazione MSS](https://pfadi.swiss/it/attivita-scout/diversita-inclusione/)
 * [Pagina di prevenzione MSS](https://pfadi.swiss/it/attivita-scout/relazione-con-i-rischi/#prevenzione)
-* [Benevole](https://pfadi.swiss/it/attivita-scout/impegnato-quale-volontario/#benevole)
-* [RISC](https://www.risc.pbs.ch)
+* [Bénévole](https://pfadi.swiss/it/attivita-scout/impegnato-quale-volontario/#benevole)
+* [RISC - Radio and internet scouting](https://risc.pbs.ch/fr/)
 * [Pagina di tecnica scout MSS](https://pfadi.swiss/it/attivita-scout/tecnica-scout/)
 * [Internazionale](https://pfadi.swiss/it/attivita-scout/eventi-scout-internazionali/)
 * [Cudesch](https://pfadi.swiss/it/formazione-accompagnamento/cudesch/)
@@ -47,11 +47,13 @@
 * [Issuu catalogo MSS](https://issuu.com/pbs-msds-mss)
 * [G+S - Sport di campo/Trekking](https://www.jugendundsport.ch/it/sportarten/lagersport-trekking-uebersicht.html) >> separatamente ai PDF, come «Fattore Uomo»
 * [Hajk](https://www.hajk.ch)
-* [Jugendurlaub](https://www.jugendurlaub.ch)
+* [Congedo giovanile](https://www.sajv.ch/it/servizi/congedo-giovanile-anche-per-te/)
 * [Pfadi Toolbox (solo Tedesco)](https://pfadi-toolbox.ch/)
 * [Scout.org](https://www.scout.org)
 * [WAGGGS](https://www.wagggs.org)
 * [Nomi di scout (solo Tedesco)](https://www.pfadinamen.ch)
+* [Corso scout PRB Website - Homepage (solo Tedesco)](https://sites.google.com/view/pfadikurs/startseite)
+* [Corso scout PRB Website - Sicurezza](https://sites.google.com/view/pfadikurs/sicherheitsbereiche)
 
 #### Campo federale - mova
 <!--natürlich nur zeitlich begrenzt-->
@@ -68,7 +70,7 @@
 
 [Schweiz Mobil](https://www.schweizmobil.ch/de/app-schweizmobil-it.html)
 
-* [iOS](http://itunes.apple.com/ch/app/schweizmobil/id527194959)
+* [iOS](https://itunes.apple.com/ch/app/schweizmobil/id527194959)
 * [Android](https://play.google.com/store/apps/details?id=ch.schweizmobil)
 
 [Rega](https://www.rega.ch/it/multimedia/rega-app.aspx)
@@ -89,12 +91,17 @@
 [Zecken App](https://www.zhaw.ch/en/lsfm/business-services/institute-of-natural-resource-sciences/ticks/tick-app/)
 
 * [iOS](https://apps.apple.com/ch/app/zecke/id946829736)
-* [Android](http://play.google.com/store/apps/details?id=com.garzotto.zecke)
+* [Android](https://play.google.com/store/apps/details?id=com.garzotto.zecke)
 
 [App swisstopo](https://www.swisstopo.admin.ch/it/carte-dati-online/carte-geodati-online/swisstopo-app.html)
 
 * [iOS](https://apps.apple.com/ch/app/swisstopo/id1505986543)
 * [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo&hl=de_CH)
+
+[App swisstopo](https://www.swisstopo.admin.ch/it/carte-dati-online/carte-geodati-online/swisstopo-app.html)
+
+* [iOS](https://apps.apple.com/ch/app/id1505986543?l=it)
+* [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo)
 
 [Kahoot Quizapp](https://kahoot.it/)
 

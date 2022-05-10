@@ -12,45 +12,48 @@
 
 ### PBS Themenseiten
 
-* [Scout.swiss als Pfadi-Teaser](www.scout.swiss)
-* [www.pbs.ch mit Infos für Leitende](www.pbs.ch)
-* [Ausbildungsseite PBS](www.ausbildung.pbs.ch)
-* [Betreuungsseite PBS](www.betreuung.pbs.ch)
-* [Lagerseite PBS](www.lager.pbs.ch)
-* [Motivationsseite PBS](www.motivation.pbs.ch)
-* [Integrationsseite der PBS](www.integration.pbs.ch)
-* [Präventionsseite der PBS](www.praevention.pbs.ch)
-* [Benevole](www.benevole.pbs.ch)
-* [RISC](www.risc.pbs.ch)
-* [Pfaditechnikseite der PBS](www.pfaditechnik.pbs.ch)
-* [Internationales](www.international.pbs.ch)
-* [Cudesch](www.cudesch.pbs.ch)
-* [Pfadiprofil](www.pfadiprofil.pbs.ch)
+* [Scout.swiss als Pfadi-Teaser](https://www.scout.swiss)
+* [www.pbs.ch mit Infos für Leitende](https://www.pfadi.swiss)
+* [Ausbildungsseite PBS](https://www.ausbildung.pbs.ch)
+* [Betreuungsseite PBS](https://www.betreuung.pbs.ch)
+* [Lagerseite PBS](https://www.lager.pbs.ch)
+* [Motivationsseite PBS](https://www.motivation.pbs.ch)
+* [Diversität und Inklusionsseite der PBS](https://pfadi.swiss/de/pfadiaktivitaten/diversitaet-inklusion/)
+* [Präventionsseite der PBS](https://www.praevention.pbs.ch)
+* [Bénévole](https://pfadi.swiss/de/pfadiaktivitaten/ehrenamtlich-engagiert/#benevole)
+* [RISC - Radio and internet scouting](https://risc.pbs.ch/de/)
+* [Pfaditechnikseite der PBS](https://www.pfaditechnik.pbs.ch)
+* [Internationales](https://www.international.pbs.ch)
+* [Cudesch](https://www.cudesch.pbs.ch)
+* [Pfadiprofil](https://www.pfadiprofil.pbs.ch)
 
 #### Stufenspezifische Informationen
-* [Biberstufe](www.biber.pbs.ch)
-* [Wolfsstufe](www.woelfe.pbs.ch)
-* [Pfadistufe](www.pfadis.pbs.ch)
-* [Piostufe](www.pios.pbs.ch)
-* [Roverstufe](www.rover.pbs.ch)
+* [Biberstufe](https://pfadi.swiss/de/pfadiprofil/biber/)
+* [Wolfsstufe](https://pfadi.swiss/de/pfadiprofil/woelfe/)
+* [Pfadistufe](https://pfadi.swiss/de/pfadiprofil/pfadis/)
+* [Piostufe](https://pfadi.swiss/de/pfadiprofil/pios/)
+* [Roverstufe](https://pfadi.swiss/de/pfadiprofil/rover/)
+* [PTA](https://pfadi.swiss/de/pfadiprofil/pta/)
 
 ### Lagerplanung
 * [MiData](https://db.scout.ch/)
-* [Faires Lager](www.faires-lager.ch)
+* [Faires Lager](https://www.faires-lager.ch)
 * [eCamp Lagerplanungstool(DE)](https://ecamp.pfadiluzern.ch/)
-* [Pfadiheimverzeichnis](www.pfadiheime.ch)
-* [Pfadistiftung](www.pfadistiftung.ch)
+* [Pfadiheimverzeichnis](https://www.pfadiheime.ch)
+* [Pfadistiftung](https://www.pfadistiftung.ch)
 * [Lagerkochbuch](https://lagerkochbuch.ch)
 
 ### Weitere (relevante) Themen
 * [Issuu Katalog PBS](https://issuu.com/pbs-msds-mss)
-* [J+S - Lagersport/Trekking](www.jugendundsport.ch/de/sportarten/lagersport-trekking-uebersicht.html) >> separat zu PDFs, wie «Faktor Mensch»
-* [Hajk](www.hajk.ch)
-* [Jugendurlaub](www.jugendurlaub.ch)
-* [Pfadi Toolbox (DE)](https://pfadi-toolbox.ch/)
-* [Scout.org](www.scout.org)
-* [WAGGGS](www.wagggs.org)
-* [Pfadinamen](www.pfadinamen.ch)
+* [J+S - Lagersport/Trekking](https://www.jugendundsport.ch/de/sportarten/lagersport-trekking-uebersicht.html) >> separat zu PDFs, wie «Faktor Mensch»
+* [Hajk](https://www.hajk.ch)
+* [Jugendurlaub](https://www.sajv.ch/de/dienstleistungen/jugendurlaub-auch-fuer-dich/)
+* [Pfadi Toolbox](https://pfadi-toolbox.ch/)
+* [Scout.org](https://www.scout.org)
+* [WAGGGS](https://www.wagggs.org)
+* [Pfadinamen](https://www.pfadinamen.ch)
+* [Pfadikurs PRB Website - Startseite](https://sites.google.com/view/pfadikurs/startseite)
+* [Pfadikurs PRB Website - Sicherheitsbereiche](https://sites.google.com/view/pfadikurs/sicherheitsbereiche)
 
 #### Bundes Lager - mova
 <!--natürlich nur zeitlich begrenzt-->
@@ -67,7 +70,7 @@
 
 [Schweiz Mobil](https://www.schweizmobil.ch/de/app-schweizmobil-d.html)
 
-* [iOS](http://itunes.apple.com/ch/app/schweizmobil/id527194959)
+* [iOS](https://itunes.apple.com/ch/app/schweizmobil/id527194959)
 * [Android](https://play.google.com/store/apps/details?id=ch.schweizmobil)
 
 [Rega](https://www.rega.ch/de/multimedia/rega-app.aspx)
@@ -88,12 +91,12 @@
 [Zecken App](https://www.zhaw.ch/de/lsfm/dienstleistung/institut-fuer-umwelt-und-natuerliche-ressourcen/zecken/app-zecke/)
 
 * [iOS](https://apps.apple.com/ch/app/zecke/id946829736)
-* [Android](http://play.google.com/store/apps/details?id=com.garzotto.zecke)
+* [Android](https://play.google.com/store/apps/details?id=com.garzotto.zecke)
 
 [swisstopo-App](https://www.swisstopo.admin.ch/de/karten-daten-online/karten-geodaten-online/swisstopo-app.html)
 
 * [iOS](https://apps.apple.com/ch/app/swisstopo/id1505986543)
-* [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo&hl=de_CH)
+* [Android](https://play.google.com/store/apps/details?id=ch.admin.swisstopo)
 
 [Kahoot Quizapp](https://kahoot.it/)
 
