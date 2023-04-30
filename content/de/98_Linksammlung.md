@@ -5,10 +5,10 @@
 
 ### Planung einer Aktivität - Konkrete Ideen
 
-* [LA im Kindersport](https://www.scout.ch/de/pfadialltag/lager/hilfsmittel/la-im-kindersport)
+* [LA im Kindersport](https://pfadi.swiss/media/files/e2/de_la-himi_print_final_20180117.pdf)
 * [Mobilesport](https://www.mobilesport.ch/de/)
 * [Pfadispiele](https://www.pfadispiele.ch/)
-* [Spika Jubla](https://spika.ch/)
+* [Spika Jubla](https://mitglieder.jubla.ch/mitglieder/blog/spielkatapult-ideen-fuer-deine-gruppenstunde/)
 
 ### PBS Themenseiten
 
@@ -83,12 +83,12 @@
 * [iOS](https://itunes.apple.com/ch/app/rondo-liederbuch/id992115582?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=ch.rondo.songbookapp&hl=en)
 
-[Cool and clean](https://www.coolandclean.ch/Offline-App.html)
+[Cool and clean](https://www.coolandclean.ch/de/App)
 
 * [iOS](https://apps.apple.com/ch/app/cool-and-clean/id1263898278)
 * [Android](https://play.google.com/store/apps/details?id=ch.swissolympic.cncmobileapp&hl=de)
 
-[Zecken App](https://www.zhaw.ch/de/lsfm/dienstleistung/institut-fuer-umwelt-und-natuerliche-ressourcen/zecken/app-zecke/)
+[Zecken App](https://zecke-tique-tick.ch/de/)
 
 * [iOS](https://apps.apple.com/ch/app/zecke/id946829736)
 * [Android](https://play.google.com/store/apps/details?id=com.garzotto.zecke)
@@ -103,7 +103,7 @@
 * [iOS](https://apps.apple.com/ch/app/kahoot-play-create-quizzes/id1131203560)
 * [Android](https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&hl=de_CH)
 
-[Echo 112](https://echo112.com/de/)
+[Echo 112](https://echosos.com/)
 
 * [iOS](https://itunes.apple.com/app/echo112-the-pocket-lifesaver/id613058743)
 * [Android](https://play.google.com/store/apps/details?id=ch.mobilemed.echo112)

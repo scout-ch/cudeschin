@@ -35,7 +35,7 @@
 
 Il existe des flyers pour les scouts dans différentes langues.
 
-[👉 Link: „Dépliant d'information pour les familles de réfugiés“](https://pfadi.swiss/fr/publications-telechargements/downloads/?search=flyer+f%C3%BCgitiv&c=2&c=19&page=1)
+[👉 Link: „Dépliant d'information pour les familles de réfugiés“](https://pfadi.swiss/fr/publications-telechargements/downloads/?search=fugitiv)
 
 ### Plus d'informations
 | | |
