@@ -37,7 +37,7 @@ Questi eventi dovrebbero tenere conto delle diverse esigenze dei genitori,  per 
 
 Ci sono volantini sugli scout in diverse lingue. 
 
-[👉 Link: “Volantino informativo per famiglie di rifugiati“](https://pfadi.swiss/it/pubblicazioni-downloads/downloads/?search=flyer+f%C3%BCgitiv&c=2&c=19&page=1)
+[👉 Link: “Volantino informativo per famiglie di rifugiati“](https://pfadi.swiss/it/pubblicazioni-downloads/downloads/?search=fugitiv)
 
 ### Ulteriori informazioni
 | | |

@@ -42,4 +42,4 @@ Darauf achten, dass sich keine Teilnehmenden als Aussenseiter fühlen
 | [![](images/piktos/9_Spiel_Sport.png)][2] | [verschiedene J+S-Merkblätter, Abschnitt «Spiel und Sport»][2] |
 
 [1]: https://www.jugendundsport.ch/de/sportarten/lagersport-trekking-uebersicht/login-experten.html
-[2]: https://www.jugendundsport.ch/de/sportarten/lagersport-trekking-uebersicht/aus-und-weiterbildung.html#dokumente
+[2]: https://www.jugendundsport.ch/de/sportarten/lagersport-trekking-uebersicht.html#dokumente

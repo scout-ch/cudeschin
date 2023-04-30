@@ -42,4 +42,4 @@ Veiller à ce qu'aucun·e participant·e ne se sente à l'écart
 | [![](images/piktos/9_Spiel_Sport.png)][2] | [Divers dépliants J+S, section «Jeu et sport»][2] |
 
 [1]: https://www.jugendundsport.ch/fr/sportarten/lagersport-trekking-uebersicht/login-experten.html
-[2]: https://www.jugendundsport.ch/fr/sportarten/lagersport-trekking-uebersicht/aus-und-weiterbildung.html#manuel_j_s_sc_t_
+[2]: https://www.jugendundsport.ch/fr/sportarten/lagersport-trekking-uebersicht.html#manuel_j_s_sc_t_
