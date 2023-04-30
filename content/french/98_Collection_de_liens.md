@@ -4,10 +4,10 @@
 
 ### Planifier une activité - Idées concrètes
 
-* [Activités de camp pour enfants](https://pfadi.swiss/fr/activites-scoutes/experiences-camp/#:~:text=Activit%C3%A9s%20de-,camp,-pour%20enfants) 
+* [Activités de camp pour enfants](https://pfadi.swiss/media/files/8e/fr_la-himi_print_final_20180222.pdf) 
 * [Mobilesport](https://www.mobilesport.ch/fr/)
 * [Jeux du scoutes, seulement en allemand](https://www.pfadispiele.ch/) 
-* [Spika Jubla](https://spika.ch/)
+* [Spika Jubla](https://mitglieder.jubla.ch/mitglieder/blog/spielkatapult-ideen-fuer-deine-gruppenstunde/)
 
 ### Thèmes MSdS
 
@@ -63,12 +63,12 @@
 
 <!--im Cudeschin-App am besten OS-abhängige Links verwenden -->
 
-[Meteo Schweiz App](https://www.meteoschweiz.admin.ch/home/service-und-publikationen/beratung-und-service/meteoschweiz-app.html)
+[Meteo Schweiz App](https://www.meteosuisse.admin.ch/services-et-publications/service/produits-meteorologiques-et-climatiques/l-app-de-meteosuisse.html)
 
 * [iOS](https://itunes.apple.com/ch/app/meteoswiss/id589772015?l=fr&amp;ls=1&amp;mt=8)
 * [Android](https://play.google.com/store/apps/details?id=ch.admin.meteoswiss&hl=fr)
 
-[Schweiz Mobil](https://www.schweizmobil.ch/de/app-schweizmobil-fr.html) 
+[Schweiz Mobil](https://www.schweizmobil.ch/fr) 
 
 * [iOS](https://itunes.apple.com/ch/app/schweizmobil/id527194959) 
 * [Android](https://play.google.com/store/apps/details?id=ch.schweizmobil)
@@ -83,20 +83,15 @@
 * [iOS](https://itunes.apple.com/ch/app/rondo-liederbuch/id992115582?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=ch.rondo.songbookapp&hl=en)
 
-[Cool and clean](https://www.coolandclean.ch/Offline-App.html)
+[Cool and clean](https://www.coolandclean.ch/fr/App)
 
 * [iOS](https://apps.apple.com/ch/app/cool-and-clean/id1263898278)
 * [Android](https://play.google.com/store/apps/details?id=ch.swissolympic.cncmobileapp&hl=fr)
 
-[Zecken App](https://www.zhaw.ch/en/lsfm/business-services/institute-of-natural-resource-sciences/ticks/tick-app/)
+[Zecken App](https://zecke-tique-tick.ch/fr/)
 
-* [iOS](https://appstore.com/apps/Zecke)
+* [iOS](https://apps.apple.com/ch/app/zecke/id946829736)
 * [Android](https://play.google.com/store/apps/details?id=com.garzotto.zecke)
-
-Swiss Map Mobile 
-
-* [iOS](https://play.google.com/store/apps/details?id=com.garzotto.smma&hl=fr_CH)
-* [Android](https://itunes.apple.com/ch/app/swiss-map-mobile/id311447284?mt=8)
 
 [App swisstopo](https://www.swisstopo.admin.ch/fr/cartes-donnees-en-ligne/cartes-geodonnees-en-ligne/swisstopo-app.html)
 
@@ -108,7 +103,7 @@ Swiss Map Mobile
 * [iOS](https://apps.apple.com/ch/app/kahoot-play-create-quizzes/id1131203560)
 * [Android](https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&hl=fr_CH)
 
-[Echo 112](https://echo112.com/fr/)
+[Echo 112](https://echosos.com/fr/)
 
 * [iOS](https://itunes.apple.com/app/echo112-the-pocket-lifesaver/id613058743)
 * [Android](https://play.google.com/store/apps/details?id=ch.mobilemed.echo112)

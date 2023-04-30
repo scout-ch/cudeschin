@@ -7,7 +7,7 @@
 * [Attvita da campo per i bambini](https://pfadi.swiss/media/files/e2/it_la-himi_print_final_20181017.pdf) 
 * [Mobilesport](https://www.mobilesport.ch/it/)
 * [Gioci scout](https://www.pfadispiele.ch/) 
-* [Spika Jubla](https://spika.ch/)
+* [Spika Jubla](https://mitglieder.jubla.ch/mitglieder/blog/spielkatapult-ideen-fuer-deine-gruppenstunde/)
 
 ### Pagine tematiche della MSdS
 
@@ -62,7 +62,7 @@
 
 <!--im Cudeschin-App am besten OS-abhängige Links verwenden -->
 
-[Meteo Schweiz App](https://www.meteoschweiz.admin.ch/home/service-und-publikationen/beratung-und-service/meteoschweiz-app.html)
+[Meteo Schweiz App](https://www.meteosvizzera.admin.ch/servizi-e-pubblicazioni/prestazioni/prodotti-meteorologici-e-climatici/app-di-meteosvizzera.html)
 
 * [iOS](https://itunes.apple.com/ch/app/meteoswiss/id589772015?l=it&amp;ls=1&amp;mt=8)
 * [Android](https://play.google.com/store/apps/details?id=ch.admin.meteoswiss&hl=it)
@@ -82,20 +82,15 @@
 * [iOS](https://itunes.apple.com/ch/app/rondo-liederbuch/id992115582?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=ch.rondo.songbookapp&hl=en)
 
-[Cool and clean](https://www.coolandclean.ch/Offline-App.html)
+[Cool and clean](https://www.coolandclean.ch/it/App)
 
 * [iOS](https://apps.apple.com/ch/app/cool-and-clean/id1263898278)
 * [Android](https://play.google.com/store/apps/details?id=ch.swissolympic.cncmobileapp&hl=it)
 
-[Zecken App](https://www.zhaw.ch/en/lsfm/business-services/institute-of-natural-resource-sciences/ticks/tick-app/)
+[Zecken App](https://zecke-tique-tick.ch/it/)
 
-* [iOS](https://appstore.com/apps/Zecke)
+* [iOS](https://apps.apple.com/ch/app/zecke/id946829736)
 * [Android](https://play.google.com/store/apps/details?id=com.garzotto.zecke)
-
-Swiss Map Mobile 
-
-* [iOS](https://play.google.com/store/apps/details?id=com.garzotto.smma&hl=it_CH)
-* [Android](https://itunes.apple.com/ch/app/swiss-map-mobile/id311447284?mt=8)
 
 [App swisstopo](https://www.swisstopo.admin.ch/it/carte-dati-online/carte-geodati-online/swisstopo-app.html)
 
@@ -107,7 +102,7 @@ Swiss Map Mobile
 * [iOS](https://apps.apple.com/ch/app/kahoot-play-create-quizzes/id1131203560)
 * [Android](https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&hl=it_CH)
 
-[Echo 112](https://echo112.com/it/)
+[Echo 112](https://echosos.com/it/)
 
 * [iOS](https://itunes.apple.com/app/echo112-the-pocket-lifesaver/id613058743)
 * [Android](https://play.google.com/store/apps/details?id=ch.mobilemed.echo112)
