@@ -61,4 +61,4 @@ Ogni attività può comportare dei pericoli e quindi richiede considerazioni e m
 
 [1]: https://pfadi.swiss/media/files/a3/2014brolstgrundlageni.pdf
 [2]: https://issuu.com/pbs-msds-mss/docs/rz_07_sicherheit_it_201607_issuu
-[4]: https://www.jugendundsport.ch/content/jus-internet/it/sportarten/lagersport-trekking-uebersicht/aus-und-weiterbildung/_jcr_content/contentPar/tabs_copy/items/manuale_g_s_sc_tg_/tabPar/downloadlist_copy_co/downloadItems/118_1494509658522.download/merkblatt_ls_t_3x3_unterwegs_sein_i.pdf
+[4]: https://www.jugendundsport.ch/content/jus-internet/it/sportarten/lagersport-trekking-uebersicht/_jcr_content/contentPar/tabs_copy_copy/items/manuale_g_s_sc_tg_/tabPar/downloadlist_copy_co/downloadItems/118_1494509658522.download/merkblatt_ls_t_3x3_unterwegs_sein_i.pdf

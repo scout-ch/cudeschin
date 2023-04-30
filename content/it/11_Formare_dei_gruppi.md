@@ -42,4 +42,4 @@ Assicurarsi che nessun partecipante si senta escluso.
 | [![](images/piktos/9_Spiel_Sport.png)][2] | [vari Promemorie G+S, sezione «Gioco e sport»][2] |
 
 [1]: https://www.jugendundsport.ch/it/sportarten/lagersport-trekking-uebersicht/login-experten.html
-[2]: https://www.jugendundsport.ch/it/sportarten/lagersport-trekking-uebersicht/aus-und-weiterbildung.html#manuale_g_s_sc_tg_
+[2]: https://www.jugendundsport.ch/it/sportarten/lagersport-trekking-uebersicht.html#manuale_g_s_sc_tg_

@@ -35,7 +35,7 @@
 
 Es gibt Flyer über die Pfadi in verschiedenen Sprachen.
 
-[👉 Link: „Informationsflyer für Flüchtlingsfamilien“](https://pfadi.swiss/de/publikationen-downloads/downloads/?search=flyer+fügitiv&c=2&c=19&page=1)
+[👉 Link: „Informationsflyer für Flüchtlingsfamilien“](https://pfadi.swiss/de/publikationen-downloads/downloads/?search=f%C3%BCgitiv)
 
 ### Weitere Informationen
 | | |

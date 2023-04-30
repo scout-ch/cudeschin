@@ -61,4 +61,4 @@ Jede Aktivität kann Gefahren bergen und erfordert deshalb Überlegungen und Mas
 
 [1]: https://pfadi.swiss/de/publikationen-downloads/downloads/detail/39/js-broschure-lst-grundlagen/
 [2]: https://issuu.com/pbs-msds-mss/docs/rz_07_sicherheit_de_201607_issuu
-[4]: https://www.jugendundsport.ch/content/jus-internet/de/sportarten/lagersport-trekking-uebersicht/aus-und-weiterbildung/_jcr_content/contentPar/tabs_copy/items/dokumente/tabPar/downloadlist_copy/downloadItems/97_1494506483240.download/merkblatt_ls_t_3x3_unterwegs_sein_d.pdf
+[4]: https://www.jugendundsport.ch/content/jus-internet/de/sportarten/lagersport-trekking-uebersicht/_jcr_content/contentPar/tabs_copy_copy/items/dokumente/tabPar/downloadlist_copy/downloadItems/97_1494506483240.download/merkblatt_ls_t_3x3_unterwegs_sein_d.pdf

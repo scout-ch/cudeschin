@@ -61,4 +61,4 @@ Chaque activité peut cacher des dangers et nécessite ainsi des réflexions et 
 
 [1]: https://pfadi.swiss/media/files/0c/2014brolstgrundlagenf2.pdf
 [2]: https://issuu.com/pbs-msds-mss/docs/rz_07_sicherheit_fr_201607_issuu
-[4]: https://www.jugendundsport.ch/content/jus-internet/fr/sportarten/lagersport-trekking-uebersicht/aus-und-weiterbildung/_jcr_content/contentPar/tabs_copy/items/manuel_j_s_sc_t_/tabPar/downloadlist_copy_co/downloadItems/117_1494509566314.download/merkblatt_ls_t_3x3_unterwegs_sein_f.pdf
+[4]: https://www.jugendundsport.ch/content/jus-internet/fr/sportarten/lagersport-trekking-uebersicht/_jcr_content/contentPar/tabs_copy_copy/items/manuel_j_s_sc_t_/tabPar/downloadlist_copy_co/downloadItems/117_1494509566314.download/merkblatt_ls_t_3x3_unterwegs_sein_f.pdf
