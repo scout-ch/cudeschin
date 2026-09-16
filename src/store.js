@@ -1,5 +1,5 @@
 import articlesSource from '@/assets/articles.json';
-import marked from 'marked';
+import { marked } from 'marked';
 
 const translations = ['de', 'fr', 'it'];
 
@@ -33,13 +33,12 @@ class ArticleStore {
 
     load() {
         for (const article of this.articles) {
-            article.html = marked(article.content);
+            article.html = marked.parse(article.content);
             article.text = this.html_to_text(article.html);
         }
     }
 
-    html_to_text(content) {
-        let html = marked(content);
+    html_to_text(html) {
         let dom = new DOMParser().parseFromString(html, 'text/html');
         return dom.body.textContent || '';
     }

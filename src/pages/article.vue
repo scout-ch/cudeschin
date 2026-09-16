@@ -5,7 +5,7 @@
             <f7-nav-right>
                 <f7-button
                     icon-material="share"
-                    style="color:white"
+                    style="color: white"
                     v-if="canShare"
                     @click="share"
                 />
@@ -22,27 +22,25 @@ import articles from '@/store';
 
 export default {
     props: ['id'],
-    data: function() {
+    data: function () {
         return {
             canShare: navigator.share !== undefined
         };
     },
-    mounted: function() {
+    mounted: function () {
         this.$$('article a').each((index, link) => {
             if (!link.href.includes('/article/')) {
-                this.$$(link)
-                    .addClass('external')
-                    .prop('target', '_blank');
+                this.$$(link).addClass('external').prop('target', '_blank');
             }
         });
     },
     computed: {
-        article: function() {
+        article: function () {
             return articles.find(this.id);
         }
     },
     methods: {
-        share: async function(event) {
+        share: async function (event) {
             try {
                 await navigator.share({
                     title: 'cudeschin: ' + this.article.title,
